@@ -122,7 +122,6 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Square](https://squareup.com/careers)
 - [Stripe](https://stripe.com/jobs/)
 - [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/)
-- [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/)
 - [Tableau](https://careers.tableau.com/listing)
 - [TED](http://www.ted.com/about/our-organization/jobs-at-ted)
 - [The Climate Corporation](http://www.climate-careers.com/)
