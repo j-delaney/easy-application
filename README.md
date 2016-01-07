@@ -147,6 +147,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [SpaceX](http://www.spacex.com/careers)
 - [Spotify](https://www.spotify.com/us/jobs/)
 - [Square](https://squareup.com/careers)
+- [SSi Micro](https://ssimicro.com/job-postings)
 - [Stripe](https://stripe.com/jobs/)
 - [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/)
 - [Tableau](https://careers.tableau.com/listing)
