@@ -141,7 +141,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Rackspace](http://www.rackspace.com/talent/)
 - [Radius](http://radius.com/jobs/)
 - [Redbull](http://jobs.redbull.com/us/en-US)
-- [reddit](https://jobs.lever.co/reddit)
+- [Reddit](https://jobs.lever.co/reddit)
 - [Redfin](http://www.redfin.com/about/jobs)
 - [Riot Games](http://www.riotgames.com/careers)
 - [RiskIQ](https://www.riskiq.com/careers)
