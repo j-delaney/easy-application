@@ -138,6 +138,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Robinhood](https://jobs.lever.co/robinhood)
 - [SendGrid](https://sendgrid.com/careers)
 - [ShopCo](https://jobs.lever.co/shopco)
+- [Shopify](https://www.shopify.com/careers)
 - [Shutterfly](https://www.shutterflyinc.com/careers.html)
 - [Sift Science](https://siftscience.com/jobs)
 - [Signifyd](https://www.signifyd.com/careers/)
