@@ -200,6 +200,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us)
 - [Wish](https://www.wish.com/careers)
 - [Work Market](https://www.workmarket.com/jobs)
+- [Yext](http://www.yext.com/company/careers/) 
 - [YouNow](https://www.younow.com/jobs)
 - [Zillow](http://www.zillow.com/jobs/)
 - [Zoosk](https://about.zoosk.com/en-us/careers/)
