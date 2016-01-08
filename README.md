@@ -154,6 +154,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [RiskIQ](https://www.riskiq.com/careers)
 - [Robinhood](https://jobs.lever.co/robinhood)
 - [Scribd](https://www.scribd.com/about/jobs)
+- [Seamless](https://www.seamless.com/about/careers)
 - [SeatGeek](https://seatgeek.com/jobs/)
 - [SendGrid](https://sendgrid.com/careers)
 - [ShopCo](https://jobs.lever.co/shopco)
