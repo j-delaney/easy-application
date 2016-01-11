@@ -28,6 +28,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Brigade](https://jobs.lever.co/brigade)
 - [BuildZoom](https://www.buildzoom.com/careers)
 - [BuzzFeed](http://www.buzzfeed.com/about/jobs)
+- [Captain401](https://captain401.com/careers)
 - [Casetext](https://casetext.com/jobs)
 - [Casper](https://boards.greenhouse.io/casper)
 - [Centro](http://www.centro.net/careers)
