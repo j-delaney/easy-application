@@ -242,6 +242,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Wish](https://www.wish.com/careers)
 - [Work Market](https://www.workmarket.com/jobs)
 - [Workiva](https://www.workiva.com/content/careers)
+- [Yext](http://www.yext.com/company/careers/) 
 - [YouNow](https://www.younow.com/jobs)
 - [Zendesk](https://www.zendesk.com/jobs/)
 - [Zillow](http://www.zillow.com/jobs/)
