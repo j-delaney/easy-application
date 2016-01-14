@@ -150,7 +150,6 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Mozilla](https://careers.mozilla.org/en-US/)
 - [MuleSoft](https://www.mulesoft.com/careers)
 - [Munchery](https://munchery.com/jobs/)
-- [Munchery](https://munchery.com/jobs/)
 - [New Relic](http://newrelic.com/about/careers)
 - [Nexmo](https://www.nexmo.com/company/careers/)
 - [Nextdoor](https://nextdoor.com/jobs/)
