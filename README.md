@@ -4,7 +4,7 @@ Have you ever tried to apply for a company only to discover they won't let you u
 
 This is a list of companies that are easy to apply to. These companies use a job application system that allows a candidate to apply in under 5 minutes (e.g. Jobvite, Lever, Greenhouse). If the company uses a system that requires the candidate to manually input every field from their resume (e.g. Taleo and Brassring) they are not allowed on this list.
 
-| Company Name | Company Headquarters (USA) |
+| Company Name | Location |
 | --- | --- |
 | [21](https://jobs.lever.co/21) | San Francisco, CA |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
