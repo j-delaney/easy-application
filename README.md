@@ -70,7 +70,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York City, NY |
-| [Dropbox](https://www.dropbox.com/jobs) | San Francisco, CA; New York City, NY; Seattle, WA |
+| [Dropbox](https://www.dropbox.com/jobs) | New York City, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) |  |
