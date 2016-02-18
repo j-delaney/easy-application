@@ -51,28 +51,28 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Clustrix](http://www.clustrix.com/company/careers/) |  |
 | [Codecademy](https://www.codecademy.com/about/jobs) |  |
 | [Codeship](https://codeship.com/jobs) |  |
-| [Coinbase](https://www.coinbase.com/careers) |  |
-| [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) |  |
-| [Couchbase](http://www.couchbase.com/careers) |  |
-| [Couchsurfing](http://www.couchsurfing.com/about/jobs/) |  |
-| [Counsyl](https://www.counsyl.com/careers/) |  |
-| [Coursera](https://www.coursera.org/about/careers) |  |
-| [CreditKarma](https://www.creditkarma.com/careers) |  |
-| [CrowdRise](https://www.crowdrise.com/about/jobs) |  |
-| [CrowdStar](http://www.crowdstar.com/careers/) |  |
-| [Cruise](https://jobs.lever.co/cruise) |  |
-| [CrunchBase](https://info.crunchbase.com/careers/) |  |
-| [Cumulus Networks](https://cumulusnetworks.com/careers/) |  |
-| [DigitalOcean](https://www.digitalocean.com/company/careers/) |  |
-| [Disqus](https://disqus.com/jobs/) |  |
-| [DJI](http://we.dji.com/career.html) |  |
-| [Docker](https://www.docker.com/careers) |  |
-| [DocuSign](https://www.docusign.com/company/careers) |  |
-| [DoorDash](https://www.doordash.com/jobs/) |  |
-| [DraftKings](http://careers.draftkings.com/) |  |
-| [Dropbox](https://www.dropbox.com/jobs) |  |
-| [Duolingo](https://www.duolingo.com/jobs) |  |
-| [EagleView](https://www.eagleview.com/Careers.aspx) |  |
+| [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
+| [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
+| [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA |
+| [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
+| [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
+| [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
+| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
+| [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angelas, CA |
+| [CrowdStar](http://www.crowdstar.com/careers/) | Burlingame, CA |
+| [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
+| [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
+| [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
+| [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York City, NY; Remote |
+| [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
+| [DJI](http://we.dji.com/career.html) | Palo Alto, CA |
+| [Docker](https://www.docker.com/careers) | San Francisco, CA |
+| [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
+| [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
+| [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York City, NY |
+| [Dropbox](https://www.dropbox.com/jobs) | San Francisco, CA; New York City, NY; Seattle, WA |
+| [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
+| [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) |  |
 | [Edmunds](http://www.edmunds.com/careers/) |  |
 | [EdX](https://www.edx.org/careers) |  |
