@@ -101,19 +101,19 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Hailo](https://hailo.workable.com/) |  |
 | [Hipmunk](https://www.hipmunk.com/jobs) |  |
 | [HubSpot](http://www.hubspot.com/jobs) |  |
-| [Idealab](http://www.idealab.com/about_idealab/careers.html) |  |
-| [Illumio](https://www.illumio.com/careers) |  |
-| [Imgur](http://imgur.com/jobs) |  |
-| [Indeed](http://www.indeed.com/cmp/Indeed) |  |
-| [Indiegogo](https://www.indiegogo.com/careers) |  |
-| [Infinera](http://www.infinera.com/company/career/jobs/) |  |
-| [InfluxDB](https://boards.greenhouse.io/influxdb) |  |
-| [InMobi](http://www.inmobi.com/company/careers/) |  |
-| [InstaCart](https://www.instacart.com/jobs) |  |
-| [Integral Ad Science](http://integralads.com/about/careers/) |  |
-| [Intellisis](http://intellisis.com/) |  |
-| [Intentional](http://www.intentsoft.com/careers/) |  |
-| [Interactive Intelligence](https://www.inin.com/careers) |  |
+| [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
+| [Illumio](https://www.illumio.com/careers) | Sunnyvale, CA |
+| [Imgur](http://imgur.com/jobs) | San Francisco, CA |
+| [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
+| [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
+| [Infinera](http://www.infinera.com/company/career/jobs/) | Sunnyvale, CA |
+| [InfluxDB](https://boards.greenhouse.io/influxdb) | Denver, CO; New York, NY; San Francisco, CA |
+| [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
+| [InstaCart](https://www.instacart.com/jobs) | San Francisco, CA |
+| [Integral Ad Science](http://integralads.com/about/careers/) | New York, NY; Seattle, WA |
+| [Intellisis](http://intellisis.com/) | San Diego, CA |
+| [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
+| [Interactive Intelligence](https://www.inin.com/careers) | Indianapolis, IN |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/about-us/working-at-jet/) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
