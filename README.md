@@ -82,11 +82,11 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Etsy](https://www.etsy.com/careers/) |  |
 | [Eventbrite](https://www.eventbrite.com/jobs/) |  |
 | [Evernote](https://evernote.com/careers/) |  |
-| [Facebook](https://www.facebook.com/careers/) |  |
+| [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) |  |
-| [Fitbit](https://www.fitbit.com/jobs) |  |
-| [Flipboard](https://about.flipboard.com/careers/) |  |
-| [Foursquare](https://foursquare.com/jobs/) |  |
+| [Fitbit](https://www.fitbit.com/jobs) | Palo Alto, CA |
+| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
+| [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) |  |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
 | [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
