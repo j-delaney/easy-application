@@ -27,13 +27,16 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) |  |
+| [Beepi](https://jobs.lever.co/beepi) |  |
 | [Bitly](https://bitly.com/pages/careers) |  |
 | [Bitnami](https://bitnami.com/careers) |  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) |  |
 | [Bloomz](https://www.bloomz.net/) |  |
+| [Box](https://boards.greenhouse.io/boxinc) |  |
 | [Brigade](https://jobs.lever.co/brigade) |  |
 | [BuildASign](https://www.buildasign.com/careers) |  |
 | [BuildZoom](https://www.buildzoom.com/careers) |  |
+| [Bungie](https://www.bungie.net/en/AboutUs/index#!page=careers) |  |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) |  |
 | [Captain401](https://captain401.com/careers) |  |
 | [Casetext](https://casetext.com/jobs) |  |
@@ -69,6 +72,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Docker](https://www.docker.com/careers) |  |
 | [DocuSign](https://www.docusign.com/company/careers) |  |
 | [DoorDash](https://www.doordash.com/jobs/) |  |
+| [Dot & Bo](https://jobs.lever.co/dotandbo) |  |
 | [DraftKings](http://careers.draftkings.com/) |  |
 | [Dropbox](https://www.dropbox.com/jobs) |  |
 | [Duolingo](https://www.duolingo.com/jobs) |  |
@@ -78,6 +82,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [EdX](https://www.edx.org/careers) |  |
 | [eHarmony](http://www.eharmony.com/about/careers/) |  |
 | [Elasticsearch](https://www.elastic.co/about/careers) |  |
+| [Elemental Technologies](https://jobs.lever.co/elementaltechnologies/) |  |
 | [EnergySavvy](http://www.energysavvy.com/careers) |  |
 | [Etsy](https://www.etsy.com/careers/) |  |
 | [Eventbrite](https://www.eventbrite.com/jobs/) |  |
@@ -93,6 +98,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [GitLab](https://about.gitlab.com/jobs/) |  |
 | [Gree](http://product.gree.net/us/en/careers) |  |
 | [Greenhouse](http://www.greenhouse.io/careers) |  |
+| [Groupon](https://jobs.groupon.com/categories/engineering) |  |
 | [GrubHub](https://www.grubhub.com/about/careers) |  |
 | [Guidewire](https://careers.guidewire.com/jobs) |  |
 | [GumGum](http://gumgum.com/careers) |  |
@@ -114,6 +120,8 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Intellisis](http://intellisis.com/) |  |
 | [Intentional](http://www.intentsoft.com/careers/) |  |
 | [Interactive Intelligence](https://www.inin.com/careers) |  |
+| [Intrepid Pursuits](http://intrepid.io/careers) |  |
+| [IXL Learning](https://www.ixl.com/company/jobs) |  |
 | [Jawbone](https://jawbone.com/careers) |  |
 | [Jet](https://jet.com/about-us/working-at-jet/) |  |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) |  |
@@ -211,6 +219,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Snapchat](https://www.snapchat.com/jobs) |  |
 | [SpaceX](http://www.spacex.com/careers) |  |
 | [Spotify](https://www.spotify.com/us/jobs/) |  |
+| [Sprout Social](http://sproutsocial.theresumator.com/apply/) |  |
 | [Square](https://squareup.com/careers) |  |
 | [Squarespace](http://www.squarespace.com/about/careers) |  |
 | [SSi Micro](https://ssimicro.com/job-postings) |  |
@@ -218,6 +227,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Study.com](http://study.com/pages/Employment.html) |  |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) |  |
 | [Tableau](https://careers.tableau.com/listing) |  |
+| [Tango](https://www.tango.me/careers) |  |
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) |  |
 | [Teespring](https://teespring.com/jobs) |  |
 | [Telenav](http://www.telenav.com/about/career/) |  |
@@ -251,9 +261,12 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Wish](https://www.wish.com/careers) | San Francisco, CA |
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
+| [Yelp](https://jobs.lever.co/yelp/) |  |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zendesk](https://www.zendesk.com/jobs/) | San Francisco, CA |
 | [Zillow](http://www.zillow.com/jobs/) | Seattle, Washington |
+| [ZocDoc](https://www.zocdoc.com/careers) | New York, NY |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA |
+| [Zynga](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qoX9Vfw9&j=o3cavfwu ) |  |
