@@ -191,32 +191,32 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [RiskIQ](https://www.riskiq.com/careers) |  |
 | [Robinhood](https://jobs.lever.co/robinhood) |  |
 | [Roku](https://www.roku.com/about/jobs) |  |
-| [SADA Systems](https://sadasystems.com/careers) |  |
-| [Scribd](https://www.scribd.com/about/jobs) |  |
-| [Seamless](https://www.seamless.com/about/careers) |  |
-| [SeatGeek](https://seatgeek.com/jobs/) |  |
-| [SendGrid](https://sendgrid.com/careers) |  |
-| [ShopCo](https://jobs.lever.co/shopco) |  |
-| [Shopify](https://www.shopify.com/careers) |  |
-| [ShoreTel](https://www.shoretel.com/careers) |  |
-| [Shutterfly](https://www.shutterflyinc.com/careers.html) |  |
-| [Sift Science](https://siftscience.com/jobs) |  |
-| [Signifyd](https://www.signifyd.com/careers/) |  |
-| [SimplyCredit](https://simplycreditinc.com/careers) |  |
-| [SKHMS](http://www.skhms.com/careers/) |  |
-| [Skillshare](https://www.skillshare.com/careers) |  |
-| [Slack](https://slack.com/jobs) |  |
-| [Slice](http://careers.slice.com/) |  |
-| [Smartsheet](https://www.smartsheet.com/careers) |  |
-| [Snapchat](https://www.snapchat.com/jobs) |  |
-| [SpaceX](http://www.spacex.com/careers) |  |
-| [Spotify](https://www.spotify.com/us/jobs/) |  |
-| [Square](https://squareup.com/careers) |  |
-| [Squarespace](http://www.squarespace.com/about/careers) |  |
-| [SSi Micro](https://ssimicro.com/job-postings) |  |
-| [Stripe](https://stripe.com/jobs/) |  |
-| [Study.com](http://study.com/pages/Employment.html) |  |
-| [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) |  |
+| [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
+| [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
+| [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
+| [SeatGeek](https://seatgeek.com/jobs/) | New York, NY |
+| [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
+| [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
+| [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
+| [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
+| [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ |
+| [Sift Science](https://siftscience.com/jobs) | San Francisco, CA |
+| [Signifyd](https://www.signifyd.com/careers/) | Remote; San Jose, CA |
+| [SimplyCredit](https://simplycreditinc.com/careers) | San Francisco, CA |
+| [SKHMS](http://www.skhms.com/careers/) | San Jose, CA |
+| [Skillshare](https://www.skillshare.com/careers) | New York, NY |
+| [Slack](https://slack.com/jobs) | San Francisco, CA |
+| [Slice](http://careers.slice.com/) | San Mateo, CA |
+| [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
+| [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
+| [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
+| [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
+| [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
+| [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
+| [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
+| [Stripe](https://stripe.com/jobs/) | San Francisco, CA |
+| [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
+| [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
