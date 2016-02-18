@@ -35,22 +35,22 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
-| [Captain401](https://captain401.com/careers) |  |
-| [Casetext](https://casetext.com/jobs) |  |
-| [Casper](https://boards.greenhouse.io/casper) |  |
-| [Catchpoint](http://www.catchpoint.com/about/careers/) |  |
-| [Centro](http://www.centro.net/careers) |  |
-| [change.org](https://www.change.org/careers) |  |
-| [Chewy](http://www.chewy.com/jobs) |  |
-| [Chexology](https://jobs.lever.co/chexology) |  |
-| [CircleUp](https://circleup.com/jobs/) |  |
+| [Captain401](https://captain401.com/careers) | San Francisco, CA |
+| [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
+| [Casper](https://boards.greenhouse.io/casper) | New York, NY |
+| [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY |
+| [Centro](http://www.centro.net/careers) | Chicago, IL |
+| [change.org](https://www.change.org/careers) | San Francisco, CA |
+| [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
+| [Chexology](https://jobs.lever.co/chexology) | New York, NY |
+| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA |
 | [Citrix](https://jobs.citrix.com/) |  |
-| [ClearSlide](https://www.clearslide.com/careers) |  |
-| [Cloudera](http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html) |  |
+| [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
+| [Cloudera](http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA |
 | [Clue](https://www.helloclue.com/jobs.html) |  |
-| [Clustrix](http://www.clustrix.com/company/careers/) |  |
-| [Codecademy](https://www.codecademy.com/about/jobs) |  |
-| [Codeship](https://codeship.com/jobs) |  |
+| [Clustrix](http://www.clustrix.com/company/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
+| [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
+| [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
 | [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA |
