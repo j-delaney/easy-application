@@ -181,16 +181,16 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Quantcast](https://www.quantcast.com/about-us/careers/) |  |
 | [Quizlet](https://quizlet.com/jobs) |  |
 | [Quora](https://www.quora.com/careers) |  |
-| [Rackspace](http://www.rackspace.com/talent/) |  |
-| [Radius](http://radius.com/jobs/) |  |
-| [Redbull](http://jobs.redbull.com/us/en-US) |  |
-| [Reddit](https://jobs.lever.co/reddit) |  |
-| [Redfin](http://www.redfin.com/about/jobs) |  |
-| [RetailNext](http://retailnext.net/about-us/career-openings/) |  |
-| [Riot Games](http://www.riotgames.com/careers) |  |
-| [RiskIQ](https://www.riskiq.com/careers) |  |
-| [Robinhood](https://jobs.lever.co/robinhood) |  |
-| [Roku](https://www.roku.com/about/jobs) |  |
+| [Rackspace](http://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX |
+| [Radius](http://radius.com/jobs/) | San Francisco, CA |
+| [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
+| [Reddit](https://jobs.lever.co/reddit) | San Francisco, CA |
+| [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
+| [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
+| [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
+| [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
+| [Robinhood](https://jobs.lever.co/robinhood) | Palo Alto, CA |
+| [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
