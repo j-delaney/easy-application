@@ -97,10 +97,10 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Guidewire](https://careers.guidewire.com/jobs) |  |
 | [GumGum](http://gumgum.com/careers) |  |
 | [Gusto](https://gusto.com/careers) |  |
-| [HackerRank](HackerRank) |  |
+| [HackerRank](HackerRank) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
-| [Hipmunk](https://www.hipmunk.com/jobs) |  |
-| [HubSpot](http://www.hubspot.com/jobs) |  |
+| [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
+| [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [Illumio](https://www.illumio.com/careers) | Sunnyvale, CA |
 | [Imgur](http://imgur.com/jobs) | San Francisco, CA |
