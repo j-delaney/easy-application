@@ -19,14 +19,14 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Amobee](http://amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://corporate.ancestry.com/careers/) | Provo, UT |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
-| [AppFolio](http://www.appfolioinc.com/jobs) |  |
+| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, California; Santa Barbara, CA |
 | [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
 | [Audience](http://www.audience.com/careers-jobvite) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
-| [AutomatedInsights](https://automatedinsights.com/company/careers/) |  |
+| [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
@@ -36,7 +36,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
-| [Busbud](https://www.busbud.com/en/careers) |  |
+| [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
@@ -90,7 +90,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Fitbit](https://www.fitbit.com/jobs) | Palo Alto, CA |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
-| [Funding Circle](https://www.fundingcircle.com/us/about/careers/) |  |
+| [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
 | [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
@@ -180,7 +180,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Pristine](https://jobs.lever.co/pristine/) | Austin, TX |
 | [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
-| [Qlik](http://www.qlik.com/company/careers) |  |
+| [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
 | [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
 | [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
