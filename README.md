@@ -238,12 +238,12 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Udacity](https://www.udacity.com/jobs) |  |
 | [Unity](https://unity3d.com/jobs) |  |
 | [Upwork](https://www.upwork.com/about/careers/) |  |
-| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) |  |
-| [Venmo](https://venmo.com/jobs/) |  |
-| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) |  |
-| [VHX](https://www.vhx.tv/jobs) |  |
-| [Vimeo](https://vimeo.com/jobs) |  |
-| [Vox Media](http://www.voxmedia.com/careers) |  |
+| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, Washington |
+| [Venmo](https://venmo.com/jobs/) | New York, NY |
+| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Bothell, WA |
+| [VHX](https://www.vhx.tv/jobs) | New York, NY |
+| [Vimeo](https://vimeo.com/jobs) | New York, NY |
+| [Vox Media](http://www.voxmedia.com/careers) | New York, NY |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [Weebly](http://careers.weebly.com/) | San Francisco, CA |
