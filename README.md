@@ -244,16 +244,16 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [VHX](https://www.vhx.tv/jobs) |  |
 | [Vimeo](https://vimeo.com/jobs) |  |
 | [Vox Media](http://www.voxmedia.com/careers) |  |
-| [Wattpad](https://www.wattpad.com/life/?jobs) |  |
-| [WayUp](https://www.wayup.com/joinus/) |  |
-| [Weebly](http://careers.weebly.com/) |  |
-| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) |  |
-| [Wish](https://www.wish.com/careers) |  |
-| [Work Market](https://www.workmarket.com/jobs) |  |
-| [Workiva](https://www.workiva.com/content/careers) |  |
-| [Yext](http://www.yext.com/company/careers/) |  | 
-| [YouNow](https://www.younow.com/jobs) |  |
-| [Zendesk](https://www.zendesk.com/jobs/) |  |
-| [Zillow](http://www.zillow.com/jobs/) |  |
-| [Zoosk](https://about.zoosk.com/en-us/careers/) |  |
-| [Zuora](https://www.zuora.com/about/careers/) |  |
+| [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
+| [WayUp](https://www.wayup.com/joinus/) | New York, NY |
+| [Weebly](http://careers.weebly.com/) | San Francisco, CA |
+| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | San Francisco, CA |
+| [Wish](https://www.wish.com/careers) | San Francisco, CA |
+| [Work Market](https://www.workmarket.com/jobs) | New York, NY |
+| [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
+| [Yext](http://www.yext.com/company/careers/) | New York, NY |
+| [YouNow](https://www.younow.com/jobs) | New York, NY |
+| [Zendesk](https://www.zendesk.com/jobs/) | San Francisco, CA |
+| [Zillow](http://www.zillow.com/jobs/) | Seattle, Washington |
+| [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
+| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA |
