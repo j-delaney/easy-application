@@ -24,6 +24,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Aspiration Software](http://aspirationsoftware.com/careers/)
 - [Audience](http://www.audience.com/careers-jobvite)
 - [August](http://august.com/jobs/#.Vo1p-JMrKHo)
+- [AutomatedInsights](https://automatedinsights.com/company/careers/)
 - [Automattic](https://automattic.com/work-with-us/)
 - [BambooHR](http://www.bamboohr.com/about/careers.php)
 - [Bitly](https://bitly.com/pages/careers)
