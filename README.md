@@ -114,11 +114,11 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Intellisis](http://intellisis.com/) |  |
 | [Intentional](http://www.intentsoft.com/careers/) |  |
 | [Interactive Intelligence](https://www.inin.com/careers) |  |
-| [Jawbone](https://jawbone.com/careers) |  |
-| [Jet](https://jet.com/about-us/working-at-jet/) |  |
-| [JetBrains](https://www.jetbrains.com/company/jobs/) |  |
-| [Jive](https://www.jivesoftware.com/about-jive/careers/) |  |
-| [Jobvite](http://www.jobvite.com/company/careers/) |  |
+| [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
+| [Jet](https://jet.com/about-us/working-at-jet/) | New York, NY |
+| [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
+| [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
+| [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
 | [Khan Academy](https://www.khanacademy.org/careers) | Mountain View, CA; Remote |
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
 | [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
