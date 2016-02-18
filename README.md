@@ -17,7 +17,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Amobee](http://amobee.com/careers/)
 - [Ancestry](http://corporate.ancestry.com/careers/)
 - [ANDigital](https://andigital.com/join-us/)
-- [AppFolio](http://www.appfolioinc.com/jobs-openings?p=job%2Forzf1fw0%2Fapply)
+- [AppFolio](http://www.appfolioinc.com/jobs)
 - [AppNexus](http://www.appnexus.com/en/company/careers)
 - [Apptio](http://www.apptio.com/about/careers)
 - [Asana](https://asana.com/jobs)
