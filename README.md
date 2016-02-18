@@ -123,18 +123,18 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Kickstarter](https://www.kickstarter.com/jobs) |  |
 | [Kik](http://www.kik.com/careers/) |  |
 | [Kinnek](https://www.kinnek.com/jointeam/) |  |
-| [LastPass](https://lastpass.com/jobs/) |  |
-| [LendUp](https://www.lendup.com/careers) |  |
-| [Lever](https://jobs.lever.co/lever) |  |
-| [Lifesize](https://www.lifesize.com/en/company/careers) |  |
-| [LinkedIn](https://www.linkedin.com/company/linkedin/careers) |  |
-| [Lithium](http://www.lithium.com/company/careers/job-openings/) |  |
-| [Livescribe](http://www.livescribe.com/en-us/jobs/) |  |
-| [Logitech](http://www.logitech.com/en-us/careers/home) |  |
-| [Looker](http://www.looker.com/careers) |  |
-| [Lucid Software](https://www.golucid.co/jobs) |  |
-| [Luxe](https://jobs.lever.co/luxe) |  |
-| [Lyft](https://www.lyft.com/jobs) |  |
+| [LastPass](https://lastpass.com/jobs/) | Fairfax, VA |
+| [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
+| [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
+| [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
+| [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA |
+| [Lithium](http://www.lithium.com/company/careers/job-openings/) | Austin, TX; San Francisco, CA |
+| [Livescribe](http://www.livescribe.com/en-us/jobs/) | Oakland, CA |
+| [Logitech](http://www.logitech.com/en-us/careers/home) | Newark, CA |
+| [Looker](http://www.looker.com/careers) | San Francisco, CA |
+| [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
+| [Luxe](https://jobs.lever.co/luxe) | San Francisco, CA |
+| [Lyft](https://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA |
 | [Machine Zone](https://www.machinezone.com/careers) | Palo Alto, CA |
 | [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA |
 | [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
