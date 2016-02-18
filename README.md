@@ -236,9 +236,9 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA |
 | [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
 | [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
-| [Unity](https://unity3d.com/jobs) | Austin, TX; Bellevue, Washington; San Francisco, CA |
+| [Unity](https://unity3d.com/jobs) | Austin, TX; Bellevue, WA; San Francisco, CA |
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
-| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, Washington |
+| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
@@ -254,6 +254,6 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
-| [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, Washington |
+| [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
