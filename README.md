@@ -152,18 +152,18 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Mozilla](https://careers.mozilla.org/en-US/) |  |
 | [MuleSoft](https://www.mulesoft.com/careers) |  |
 | [Munchery](https://munchery.com/jobs/) |  |
-| [New Relic](http://newrelic.com/about/careers) |  |
-| [Nexmo](https://www.nexmo.com/company/careers/) |  |
-| [Nextdoor](https://nextdoor.com/jobs/) |  |
-| [Oblong](http://www.oblong.com/company/careers/) |  |
-| [Okta](https://www.okta.com/company/careers/) |  |
+| [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
+| [Nexmo](https://www.nexmo.com/company/careers/) | San Francisco, CA |
+| [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
+| [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA |
+| [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA |
 | [Onefootball](https://www.onefootball.com/company/careers.html) |  |
-| [OneLogin](https://www.onelogin.com/jobs) |  |
-| [Open Whisper Systems](https://whispersystems.org/workworkwork/) |  |
-| [Opendoor](https://www.opendoor.com/jobs) |  |
-| [OpenTable](http://www.opentable.com/careers/) |  |
-| [Opower](https://opower.com/careers) |  |
-| [Optimizely](https://www.optimizely.com/careers/) |  |
+| [OneLogin](https://www.onelogin.com/jobs) | San Francisco, CA |
+| [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA |
+| [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA |
+| [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
+| [Opower](https://opower.com/careers) | Arlington, VA; San Francisco, CA |
+| [Optimizely](https://www.optimizely.com/careers/) | San Francisco, CA |
 | [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
 | [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
