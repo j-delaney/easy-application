@@ -88,15 +88,15 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Flipboard](https://about.flipboard.com/careers/) |  |
 | [Foursquare](https://foursquare.com/jobs/) |  |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) |  |
-| [General Assembly](https://generalassemb.ly/careers) |  |
-| [GitHub](https://github.com/about/jobs) |  |
-| [GitLab](https://about.gitlab.com/jobs/) |  |
-| [Gree](http://product.gree.net/us/en/careers) |  |
-| [Greenhouse](http://www.greenhouse.io/careers) |  |
-| [GrubHub](https://www.grubhub.com/about/careers) |  |
-| [Guidewire](https://careers.guidewire.com/jobs) |  |
-| [GumGum](http://gumgum.com/careers) |  |
-| [Gusto](https://gusto.com/careers) |  |
+| [General Assembly](https://generalassemb.ly/careers) | New York, NY |
+| [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
+| [GitLab](https://about.gitlab.com/jobs/) | Remote |
+| [Gree](http://product.gree.net/us/en/careers) | San Francisco, CA |
+| [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
+| [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
+| [Guidewire](https://careers.guidewire.com/jobs) | Foster City, CA |
+| [GumGum](http://gumgum.com/careers) | Santa Monica, CA |
+| [Gusto](https://gusto.com/careers) | San Francisco, CA |
 | [HackerRank](HackerRank) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
