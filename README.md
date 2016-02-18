@@ -135,23 +135,23 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Lucid Software](https://www.golucid.co/jobs) |  |
 | [Luxe](https://jobs.lever.co/luxe) |  |
 | [Lyft](https://www.lyft.com/jobs) |  |
-| [Machine Zone](https://www.machinezone.com/careers) |  |
-| [MailChimp](http://mailchimp.com/about/jobs/) |  |
-| [Marketo](http://marketo.jobs/careers/) |  |
-| [Mattermark](https://mattermark.com/jobs/) |  |
-| [Matterport](http://matterport.com/positions/) |  |
-| [MaxCDN](https://www.maxcdn.com/careers/) |  |
-| [Medallia](http://www.medallia.com/open-positions/) |  |
-| [Meetup](http://www.meetup.com/jobs/) |  |
-| [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) |  |
+| [Machine Zone](https://www.machinezone.com/careers) | Palo Alto, CA |
+| [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA |
+| [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
+| [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA |
+| [Matterport](http://matterport.com/positions/) | Mountain View, CA |
+| [MaxCDN](https://www.maxcdn.com/careers/) | Los Angeles, CA |
+| [Medallia](http://www.medallia.com/open-positions/) | Palo Alto, CA |
+| [Meetup](http://www.meetup.com/jobs/) | New York, NY |
+| [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
 | [Mind Candy](http://mindcandy.com/careers) |  |
-| [MixBit](https://mixbit.com/jobs) |  |
-| [Mixpanel](https://mixpanel.com/jobs/) |  |
-| [MongoDB](https://www.mongodb.com/careers) |  |
-| [MongoLab](https://mongolab.com/company/) |  |
-| [Mozilla](https://careers.mozilla.org/en-US/) |  |
-| [MuleSoft](https://www.mulesoft.com/careers) |  |
-| [Munchery](https://munchery.com/jobs/) |  |
+| [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
+| [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
+| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
+| [MongoLab](https://mongolab.com/company/) | San Francisco, CA |
+| [Mozilla](https://careers.mozilla.org/en-US/) | Boston, MA; Remote; San Francisco, CA |
+| [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
+| [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/company/careers/) | San Francisco, CA |
 | [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
