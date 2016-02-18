@@ -217,27 +217,27 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Stripe](https://stripe.com/jobs/) |  |
 | [Study.com](http://study.com/pages/Employment.html) |  |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) |  |
-| [Tableau](https://careers.tableau.com/listing) |  |
-| [TED](http://www.ted.com/about/our-organization/jobs-at-ted) |  |
-| [Teespring](https://teespring.com/jobs) |  |
-| [Telenav](http://www.telenav.com/about/career/) |  |
-| [The Climate Corporation](http://www.climate-careers.com/) |  |
+| [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
+| [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
+| [Teespring](https://teespring.com/jobs) | San Francisco, CA |
+| [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
+| [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
 | [The League](http://jobs.theleague.com/) |  |
-| [ThoughtSpot](http://www.thoughtspot.com/careers) |  |
-| [Thumbtack](https://www.thumbtack.com/jobs) |  |
-| [Tillster](http://www.tillster.com/careers/) |  |
-| [Tilt](https://www.tilt.com/learn/jobs) |  |
-| [Tint](https://www.tintup.com/jobs) |  |
-| [TiVo](https://www.tivo.com/jobs) |  |
+| [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
+| [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA |
+| [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
+| [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
+| [Tint](https://www.tintup.com/jobs) | San Francisco, CA |
+| [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA |
 | [Travis CI](https://travisci.workable.com/) |  |
-| [TripAdvisor](http://www.tripadvisor.com/careers/) |  |
-| [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) |  |
-| [Twilio](https://www.twilio.com/company/jobs) |  |
-| [Twitch](http://www.twitch.tv/p/jobs) |  |
-| [Twitter](https://about.twitter.com/careers) |  |
-| [Udacity](https://www.udacity.com/jobs) |  |
-| [Unity](https://unity3d.com/jobs) |  |
-| [Upwork](https://www.upwork.com/about/careers/) |  |
+| [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
+| [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
+| [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
+| [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA |
+| [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
+| [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
+| [Unity](https://unity3d.com/jobs) | Austin, TX; Bellevue, Washington; San Francisco, CA |
+| [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, Washington |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
