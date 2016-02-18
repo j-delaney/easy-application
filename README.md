@@ -244,6 +244,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Vox Media](http://www.voxmedia.com/careers)
 - [Wattpad](https://www.wattpad.com/life/?jobs)
 - [WayUp](https://www.wayup.com/joinus/)
+- [Wealthfront](https://www.wealthfront.com/careers)
 - [Weebly](http://careers.weebly.com/)
 - [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us)
 - [Wish](https://www.wish.com/careers)
