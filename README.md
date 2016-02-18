@@ -95,7 +95,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Guidewire](https://careers.guidewire.com/jobs)
 - [GumGum](http://gumgum.com/careers)
 - [Gusto](https://gusto.com/careers)
-- [HackerRank](HackerRank)
+- [HackerRank](https://www.hackerrank.com/careers)
 - [Hailo](https://hailo.workable.com/)
 - [Hipmunk](https://www.hipmunk.com/jobs)
 - [HubSpot](http://www.hubspot.com/jobs)
