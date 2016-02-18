@@ -119,10 +119,10 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [JetBrains](https://www.jetbrains.com/company/jobs/) |  |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) |  |
 | [Jobvite](http://www.jobvite.com/company/careers/) |  |
-| [Khan Academy](https://www.khanacademy.org/careers) |  |
-| [Kickstarter](https://www.kickstarter.com/jobs) |  |
-| [Kik](http://www.kik.com/careers/) |  |
-| [Kinnek](https://www.kinnek.com/jointeam/) |  |
+| [Khan Academy](https://www.khanacademy.org/careers) | Mountain View, CA; Remote |
+| [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
+| [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
+| [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [LastPass](https://lastpass.com/jobs/) | Fairfax, VA |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
