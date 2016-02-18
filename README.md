@@ -164,23 +164,23 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [OpenTable](http://www.opentable.com/careers/) |  |
 | [Opower](https://opower.com/careers) |  |
 | [Optimizely](https://www.optimizely.com/careers/) |  |
-| [Palantir](https://www.palantir.com/careers/) |  |
-| [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) |  |
-| [Pandora](http://www.pandora.com/careers/all) |  |
-| [Paypal](https://www.paypal.com/webapps/mpp/jobs) |  |
-| [Pinterest](https://careers.pinterest.com/) |  |
-| [Pivotal](http://pivotal.io/careers) |  |
-| [Postmates](https://postmates.com/jobs) |  |
+| [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
+| [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
+| [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
+| [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
+| [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
+| [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
+| [Postmates](https://postmates.com/jobs) | San Francisco, CA |
 | [Prezi](http://prezi.com/jobs/) |  |
-| [Priceline](http://careers.priceline.com/) |  |
-| [Prism](https://prism.com/careers/) |  |
-| [Pristine](https://jobs.lever.co/pristine/) |  |
-| [Prominic](https://prominic.net/about-us/careers/) |  |
-| [Pure Storage](https://www.purestorage.com/company/careers.html) |  |
+| [Priceline](http://careers.priceline.com/) | Norwalk, CT |
+| [Prism](https://prism.com/careers/) | San Francisco, CA |
+| [Pristine](https://jobs.lever.co/pristine/) | Austin, TX |
+| [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
+| [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
 | [Qlik](http://www.qlik.com/company/careers) |  |
-| [Quantcast](https://www.quantcast.com/about-us/careers/) |  |
-| [Quizlet](https://quizlet.com/jobs) |  |
-| [Quora](https://www.quora.com/careers) |  |
+| [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
+| [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
+| [Quora](https://www.quora.com/careers) | Mountain View, CA |
 | [Rackspace](http://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX |
 | [Radius](http://radius.com/jobs/) | San Francisco, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
