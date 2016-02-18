@@ -26,15 +26,15 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Audience](http://www.audience.com/careers-jobvite) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
-| [BambooHR](http://www.bamboohr.com/about/careers.php) |  |
-| [Bitly](https://bitly.com/pages/careers) |  |
-| [Bitnami](https://bitnami.com/careers) |  |
-| [BitTorrent](http://www.bittorrent.com/company/about/jobs) |  |
-| [Bloomz](https://www.bloomz.net/) |  |
-| [Brigade](https://jobs.lever.co/brigade) |  |
-| [BuildASign](https://www.buildasign.com/careers) |  |
-| [BuildZoom](https://www.buildzoom.com/careers) |  |
-| [BuzzFeed](http://www.buzzfeed.com/about/jobs) |  |
+| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
+| [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
+| [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
+| [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
+| [Bloomz](https://www.bloomz.net/) | Redmond, WA |
+| [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
+| [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
+| [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
+| [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Captain401](https://captain401.com/careers) |  |
 | [Casetext](https://casetext.com/jobs) |  |
 | [Casper](https://boards.greenhouse.io/casper) |  |
