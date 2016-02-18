@@ -33,6 +33,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Brigade](https://jobs.lever.co/brigade)
 - [BuildASign](https://www.buildasign.com/careers)
 - [BuildZoom](https://www.buildzoom.com/careers)
+- [Busbud](https://www.busbud.com/en/careers)
 - [BuzzFeed](http://www.buzzfeed.com/about/jobs)
 - [Captain401](https://captain401.com/careers)
 - [Casetext](https://casetext.com/jobs)
