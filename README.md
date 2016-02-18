@@ -240,20 +240,20 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Upwork](https://www.upwork.com/about/careers/) |  |
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, Washington |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
-| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Bothell, WA |
+| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
-| [Vox Media](http://www.voxmedia.com/careers) | New York, NY |
+| [Vox Media](http://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [Weebly](http://careers.weebly.com/) | San Francisco, CA |
-| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | San Francisco, CA |
+| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
 | [Wish](https://www.wish.com/careers) | San Francisco, CA |
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
-| [Zendesk](https://www.zendesk.com/jobs/) | San Francisco, CA |
-| [Zillow](http://www.zillow.com/jobs/) | Seattle, Washington |
+| [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
+| [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, Washington |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
-| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA |
+| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
