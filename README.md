@@ -73,15 +73,15 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Dropbox](https://www.dropbox.com/jobs) | New York City, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
-| [Edmodo](https://www.edmodo.com/careers) |  |
-| [Edmunds](http://www.edmunds.com/careers/) |  |
-| [EdX](https://www.edx.org/careers) |  |
-| [eHarmony](http://www.eharmony.com/about/careers/) |  |
-| [Elasticsearch](https://www.elastic.co/about/careers) |  |
-| [EnergySavvy](http://www.energysavvy.com/careers) |  |
-| [Etsy](https://www.etsy.com/careers/) |  |
-| [Eventbrite](https://www.eventbrite.com/jobs/) |  |
-| [Evernote](https://evernote.com/careers/) |  |
+| [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
+| [Edmunds](http://www.edmunds.com/careers/) | Santa Monica, CA |
+| [EdX](https://www.edx.org/careers) | Cambridge, MA |
+| [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
+| [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
+| [EnergySavvy](http://www.energysavvy.com/careers) | Seattle, WA |
+| [Etsy](https://www.etsy.com/careers/) | New York, NY |
+| [Eventbrite](https://www.eventbrite.com/jobs/) | San Francisco, CA |
+| [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) |  |
 | [Fitbit](https://www.fitbit.com/jobs) | Palo Alto, CA |
