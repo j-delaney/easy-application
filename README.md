@@ -24,6 +24,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 - [Audience](http://www.audience.com/careers-jobvite)
 - [August](http://august.com/jobs/#.Vo1p-JMrKHo)
 - [Automattic](https://automattic.com/work-with-us/)
+- [AutomatedInsights](https://automatedinsights.com/company/careers/)
 - [BambooHR](http://www.bamboohr.com/about/careers.php)
 - [Bitly](https://bitly.com/pages/careers)
 - [Bitnami](https://bitnami.com/careers)
