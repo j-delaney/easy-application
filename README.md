@@ -20,7 +20,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Ancestry](http://corporate.ancestry.com/careers/) | Provo, UT |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
 | [AppFolio](http://www.appfolioinc.com/jobs) |  |
-| [AppNexus](http://www.appnexus.com/en/company/careers) | New York City, NY |
+| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
@@ -66,14 +66,14 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
 | [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
-| [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York City, NY; Remote |
+| [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
 | [DJI](http://we.dji.com/career.html) | Palo Alto, CA |
 | [Docker](https://www.docker.com/careers) | San Francisco, CA |
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
-| [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York City, NY |
-| [Dropbox](https://www.dropbox.com/jobs) | New York City, NY; San Francisco, CA; Seattle, WA |
+| [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
+| [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
