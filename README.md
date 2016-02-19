@@ -28,14 +28,21 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
+<<<<<<< HEAD
+
+
+=======
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
+| [Beepi](https://www.beepi.com/careers/teams) |  |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
+| [Box](https://www.box.com/careers/) |  |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
+| [Bungie](https://www.bungie.net/en/AboutUs/index#!page=careers) | Bellevue, WA |
 | [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
@@ -46,7 +53,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [change.org](https://www.change.org/careers) | San Francisco, CA |
 | [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
-| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA |
+| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
 | [Citrix](https://jobs.citrix.com/) |  |
 | [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
 | [Cloudera](http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA |
@@ -72,6 +79,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Docker](https://www.docker.com/careers) | San Francisco, CA |
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
+| [Dot & Bo](https://www.dotandbo.com/careers) |  |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
@@ -81,6 +89,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [EdX](https://www.edx.org/careers) | Cambridge, MA |
 | [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
+| [Elemental Technologies](http://www.elementaltechnologies.com/company/careers) |  |
 | [EnergySavvy](http://www.energysavvy.com/careers) | Seattle, WA |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
 | [Eventbrite](https://www.eventbrite.com/jobs/) | San Francisco, CA |
@@ -96,6 +105,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
 | [Gree](http://product.gree.net/us/en/careers) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
+| [Groupon](https://jobs.groupon.com/categories/engineering) |  |
 | [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
 | [Guidewire](https://careers.guidewire.com/jobs) | Foster City, CA |
 | [GumGum](http://gumgum.com/careers) | Santa Monica, CA |
@@ -117,6 +127,8 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Intellisis](http://intellisis.com/) | San Diego, CA |
 | [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
 | [Interactive Intelligence](https://www.inin.com/careers) | Indianapolis, IN |
+| [Intrepid Pursuits](http://intrepid.io/careers) | Cambridge, MA |
+| [IXL Learning](https://www.ixl.com/company/jobs) |  |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/about-us/working-at-jet/) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
@@ -214,6 +226,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
+| [Sprout Social](http://sproutsocial.com/careers) |  |
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
@@ -221,6 +234,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
+| [Tango](https://www.tango.me/careers) |  |
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
@@ -256,9 +270,12 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
 | [Xero](https://www.xero.com/nz/about/careers/) |  |
+| [Yelp](http://www.yelp.com/careers/home) |  |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
+| [ZocDoc](https://www.zocdoc.com/careers) | New York, NY |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
+| [Zynga](https://www.zynga.com/careers) |  |
