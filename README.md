@@ -11,7 +11,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
 | [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
 | [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
-| [AeroSF](https://www.aerofs.com/company/careers/) | San Francisco, CA |
+| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
