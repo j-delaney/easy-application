@@ -259,6 +259,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
+| [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
