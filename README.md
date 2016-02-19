@@ -92,7 +92,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) |  |
-| [Fitbit](https://www.fitbit.com/jobs) | Bston, MA; San Francisco, CA |
+| [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
