@@ -254,6 +254,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
+| [VEVO](http://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY |
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
 | [Vox Media](http://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
