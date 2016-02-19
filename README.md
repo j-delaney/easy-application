@@ -100,7 +100,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
 | [Gree](http://product.gree.net/us/en/careers) | San Francisco, CA |
-| [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
+| [Greenhouse](http://www.greenhouse.io/careers) | New York, NY; San Francisco, CA |
 | [Groupon](https://jobs.groupon.com/categories/engineering) |  |
 | [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
 | [Guidewire](https://careers.guidewire.com/jobs) | Foster City, CA |
