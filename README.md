@@ -9,6 +9,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [21](https://jobs.lever.co/21) | San Francisco, CA |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
+| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
 | [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
 | [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
 | [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
