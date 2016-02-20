@@ -274,6 +274,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Yelp](http://www.yelp.com/careers/home) |  |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
+| [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; London, UK; Dortmund, Germany |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
 | [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
