@@ -30,7 +30,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
-| [Beepi](https://www.beepi.com/careers/teams) |  |
+| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
@@ -76,7 +76,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Docker](https://www.docker.com/careers) | San Francisco, CA |
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
-| [Dot & Bo](https://www.dotandbo.com/careers) |  |
+| [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
