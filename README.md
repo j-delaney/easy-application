@@ -98,8 +98,10 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
+| [Gilt](http://www.gilt.com/careers/) | New York, NY |
 | [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
+| [GoDaddy](http://careers.godaddy.net/) | Culver City - Media Temple, CA; Gilbert, AZ; Kirkland, WA; Scottsdale, AZ; Sunnyvale, CA; Tempe, AZ |
 | [Gree](http://product.gree.net/us/en/careers) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
 | [Groupon](https://jobs.groupon.com/categories/engineering) |  |
@@ -111,6 +113,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Hailo](https://hailo.workable.com/) |  |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
+| [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [Illumio](https://www.illumio.com/careers) | Sunnyvale, CA |
 | [Imgur](http://imgur.com/jobs) | San Francisco, CA |
@@ -165,6 +168,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
+| [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
 | [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
@@ -209,6 +213,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
+| [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
@@ -266,6 +271,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [Wealthfront](https://www.wealthfront.com/careers) |  |
 | [Weebly](http://careers.weebly.com/) | San Francisco, CA |
+| [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
 | [Wish](https://www.wish.com/careers) | San Francisco, CA |
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
@@ -275,6 +281,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; London, UK; Dortmund, Germany |
+| [Zappos](https://jobs.zappos.com/choose-your-team) | Buffalo, NY; Las Vegas, NV |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
 | [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
