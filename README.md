@@ -164,7 +164,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
-| [MongoLab](https://mongolab.com/company/) | San Francisco, CA |
+| [MLab](https://mlab.com/company/) | San Francisco, CA |
 | [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
