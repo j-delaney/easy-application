@@ -231,6 +231,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Slice](http://careers.slice.com/) | San Mateo, CA |
 | [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
+| [Smule](http://www.smule.com/jobs) | San Francisco, CA |
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
