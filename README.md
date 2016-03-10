@@ -32,9 +32,11 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
+| [Betterment](https://www.betterment.com/careers/) | New York, NY |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
+| [Blend](https://blendlabs.com/company/jobs/) | San Francisco, CA |
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
 | [Box](https://www.box.com/careers/) |  |
@@ -45,6 +47,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
+| [Carbon](http://carbon3d.com/careers/) | Redwood City, CA |
 | [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
 | [Casper](https://boards.greenhouse.io/casper) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY |
@@ -59,6 +62,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Clue](https://www.helloclue.com/jobs.html) |  |
 | [Clustrix](http://www.clustrix.com/company/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
+| [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
 | [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
@@ -96,6 +100,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) |  |
+| [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
@@ -131,6 +136,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
 | [Interactive Intelligence](https://www.inin.com/careers) | Indianapolis, IN |
 | [Intrepid Pursuits](http://intrepid.io/careers) | Cambridge, MA |
+| [Invoice2go](https://invoice.2go.com/en-au/careers/) | Redwood City, CA |
 | [IXL Learning](https://www.ixl.com/company/jobs) |  |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/about-us/working-at-jet/) | New York, NY |
@@ -147,6 +153,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
 | [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
 | [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA |
+| [Linode](https://www.linode.com/careers) | Haddonfield, NJ |
 | [Lithium](http://www.lithium.com/company/careers/job-openings/) | Austin, TX; San Francisco, CA |
 | [Livescribe](http://www.livescribe.com/en-us/jobs/) | Oakland, CA |
 | [Logitech](http://www.logitech.com/en-us/careers/home) | Newark, CA |
@@ -166,8 +173,9 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Mind Candy](http://mindcandy.com/careers) |  |
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
-| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
+| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
+| [Moz](https://moz.com/about/jobs) | Seattle, WA |
 | [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
@@ -182,6 +190,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA |
 | [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA |
 | [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
+| [OpenX](http://openx.com/open-positions/) | Menlo Park, CA |
 | [Opower](https://opower.com/careers/) | Arlington, VA; San Francisco, CA |
 | [Optimizely](https://www.optimizely.com/careers/) | San Francisco, CA |
 | [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
@@ -212,8 +221,8 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Robinhood](https://jobs.lever.co/robinhood) | Palo Alto, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
-| [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
+| [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
@@ -229,6 +238,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Skillshare](https://www.skillshare.com/careers) | New York, NY |
 | [Slack](https://slack.com/jobs) | San Francisco, CA |
 | [Slice](http://careers.slice.com/) | San Mateo, CA |
+| [Smarking](https://www.smarking.net/careers) | San Francisco, CA |
 | [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
 | [Smule](http://www.smule.com/jobs) | San Francisco, CA |
@@ -272,6 +282,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
 | [Vox Media](http://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
+| [Vultr](https://www.vultr.com/corporate/careers.php) | Matawan, NJ |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [Wealthfront](https://www.wealthfront.com/careers) |  |
@@ -292,5 +303,6 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
 | [ZocDoc](https://www.zocdoc.com/careers) | New York, NY |
 | [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
+| [Zscaler](https://www.zscaler.com/careers/) | San Jose, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
 | [Zynga](https://www.zynga.com/careers) |  |
