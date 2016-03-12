@@ -28,7 +28,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
-| [Audience](http://www.audience.com/careers-jobvite) | Mountain View, CA |
+| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
