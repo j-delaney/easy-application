@@ -59,6 +59,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
 | [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
 | [Citrix](https://jobs.citrix.com/) |  |
+| [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
 | [Cloudera](http://www.cloudera.com/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA |
 | [Clue](https://www.helloclue.com/jobs.html) |  |
