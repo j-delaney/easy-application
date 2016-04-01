@@ -19,6 +19,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
+| [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
 | [Amobee](http://amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Provo, UT |
@@ -174,6 +175,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
 | [Mind Candy](http://mindcandy.com/careers) |  |
+| [MindTouch](https://www.mindtouch.com/about/careers) | San Diego, CA |
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
@@ -182,6 +184,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
+| [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
 | [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
@@ -246,6 +249,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
 | [Smule](http://www.smule.com/jobs) | San Francisco, CA |
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
+| [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Sprout Social](http://sproutsocial.com/careers) |  |
