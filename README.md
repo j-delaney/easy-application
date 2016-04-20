@@ -214,6 +214,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
 | [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
 | [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
+| [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA |
 | [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
 | [Rackspace](https://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX |
