@@ -234,6 +234,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
 | [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
+| [SheerID](http://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
 | [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
