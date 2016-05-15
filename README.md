@@ -219,9 +219,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
 | [Rackspace](https://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX |
 | [Radius](https://radius.com/jobs/) | San Francisco, CA |
+| [ReadMe](https://readme.io/careers/) | San Francisco, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
 | [Reddit](https://jobs.lever.co/reddit) | San Francisco, CA |
 | [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
+| [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
 | [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
@@ -268,6 +270,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
 | [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
+| [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
 | [The League](http://jobs.theleague.com/) |  |
 | [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
 | [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA |
