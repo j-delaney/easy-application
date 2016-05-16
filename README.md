@@ -20,6 +20,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
 | [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
+| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
 | [Amobee](http://amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Provo, UT |
