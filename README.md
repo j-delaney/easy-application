@@ -125,6 +125,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [HackerRank](https://www.hackerrank.com/careers) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
+| [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
 | [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
