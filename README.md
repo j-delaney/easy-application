@@ -19,7 +19,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
-| [Airtable](https://airtable.com/jobs) | San Francisco, CA |
 | [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
@@ -285,7 +284,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Tango](https://www.tango.me/careers) |  |
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
-| [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
 | [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
 | [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
@@ -318,7 +316,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Vultr](https://www.vultr.com/corporate/careers.php) | Matawan, NJ |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
-| [Wealthfront](https://www.wealthfront.com/careers) |  |
 | [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA |
 | [Weebly](http://careers.weebly.com/) | San Francisco, CA |
 | [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
