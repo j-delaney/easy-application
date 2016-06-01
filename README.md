@@ -130,6 +130,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Gusto](https://gusto.com/careers) | San Francisco, CA |
 | [HackerRank](https://www.hackerrank.com/careers) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
+| [Hart, Inc.] (http://hart.com/careers/) | Anaheim, CA |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
 | [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
