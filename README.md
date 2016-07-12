@@ -203,6 +203,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
 | [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
+| [Niantic](https://www.nianticlabs.com/jobs/) | Los Angeles, CA; San Francisco, CA; Seattle, WA; Sunnyvale, CA |
 | [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA |
 | [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA |
 | [Onefootball](https://www.onefootball.com/company/careers.html) |  |
