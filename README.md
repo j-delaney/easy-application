@@ -276,7 +276,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
-| [Sprout Social](http://sproutsocial.com/careers) |  |
+| [Sprout Social](http://sproutsocial.com/careers) | Chicago, IL |
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
