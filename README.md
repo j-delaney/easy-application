@@ -329,7 +329,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
 | [Xero](https://www.xero.com/nz/about/careers/) |  |
-| [Yelp](http://www.yelp.com/careers/home) |  |
+| [Yelp](http://www.yelp.com/careers/home) | San Francisco, CA |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; London, UK; Dortmund, Germany |
