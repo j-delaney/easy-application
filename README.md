@@ -130,6 +130,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Gusto](https://gusto.com/careers) | San Francisco, CA |
 | [HackerRank](https://www.hackerrank.com/careers) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
+| [Haiku Deck](https://www.haikudeck.com/jobs) | Seattle, WA |
 | [Hart, Inc.](http://hart.com/careers/) | Anaheim, CA |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
@@ -248,6 +249,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
 | [Robinhood](https://jobs.lever.co/robinhood) | Palo Alto, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
+| [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
