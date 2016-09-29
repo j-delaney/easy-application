@@ -112,7 +112,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Farfetch](http://www.farfetch.com/careers) |  |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
-| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
+| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
