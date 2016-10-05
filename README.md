@@ -248,6 +248,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
 | [Robinhood](https://jobs.lever.co/robinhood) | Palo Alto, CA |
+| [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
