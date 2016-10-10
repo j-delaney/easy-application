@@ -44,6 +44,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Blend Labs](https://blendlabs.com/company/jobs/) | San Francisco, CA |
 | [Blend](https://blendlabs.com/company/jobs/) | San Francisco, CA |
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
+| [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
 | [Box](https://www.box.com/careers/) |  |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
