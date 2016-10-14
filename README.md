@@ -6,9 +6,9 @@ This is a list of companies that are easy to apply to. These companies use a job
 
 Please note that it is not encouraged to blindly apply to every company on this list. I made this list because I felt that the application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
 
-| Company Name | Location |
-| --- | --- |
-| [21](https://jobs.lever.co/21) | San Francisco, CA |
+|applied| Company Name | Location |
+| --- | --- | --- |
+|<ul><li>[x] item1</li><li>[ ] item2</li></ul>| [21](https://jobs.lever.co/21) | San Francisco, CA |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
 | [A9](https://www.a9.com/careers/) | Palo Alto, CA |
