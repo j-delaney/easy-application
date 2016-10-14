@@ -8,36 +8,36 @@ Please note that it is not encouraged to blindly apply to every company on this 
 
 |applied| Company Name | Location |
 | --- | --- | --- |
-|<ul><li>[ ] item1</li></ul>| [21](https://jobs.lever.co/21) | San Francisco, CA |
-|<ul><li>[ ] item1</li></ul>|| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-|<ul><li>[ ] item1</li></ul>|| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-|<ul><li>[ ] item1</li></ul>|| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
-|<ul><li>[ ] item1</li></ul>|| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
-|<ul><li>[ ] item1</li></ul>|| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
-|<ul><li>[ ] item1</li></ul>|| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
-|<ul><li>[ ] item1</li></ul>|| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
-| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
-| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
-| [Airtable](https://airtable.com/jobs) | San Francisco, CA |
-| [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
-| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
-| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
-| [Amobee](http://amobee.com/careers/) | Foster City, CA |
-| [Ancestry](http://www.ancestry.com/corporate/careers/) | Provo, UT |
-| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
-| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, California; Santa Barbara, CA |
-| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
-| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
-| [Asana](https://asana.com/jobs) | San Francisco, CA |
-| [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
-| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
-| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
-| [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
-| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
-| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
-| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
-| [Benchling](https://benchling.com/careers) | San Francisco, CA |
-| [Betterment](https://www.betterment.com/careers/) | New York, NY |
+|<ul><li>[ ] </li></ul>| [21](https://jobs.lever.co/21) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
+|<ul><li>[ ] </li></ul>| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
+|<ul><li>[ ] </li></ul>| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
+|<ul><li>[ ] </li></ul>| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
+|<ul><li>[ ] </li></ul>| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Airtable](https://airtable.com/jobs) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
+|<ul><li>[ ] </li></ul>| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Amobee](http://amobee.com/careers/) | Foster City, CA |
+|<ul><li>[ ] </li></ul>| [Ancestry](http://www.ancestry.com/corporate/careers/) | Provo, UT |
+|<ul><li>[ ] </li></ul>| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
+|<ul><li>[ ] </li></ul>| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, California; Santa Barbara, CA |
+|<ul><li>[ ] </li></ul>| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
+|<ul><li>[ ] </li></ul>| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
+|<ul><li>[ ] </li></ul>| [Asana](https://asana.com/jobs) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
+|<ul><li>[ ] </li></ul>| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
+|<ul><li>[ ] </li></ul>| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
+|<ul><li>[ ] </li></ul>| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
+|<ul><li>[ ] </li></ul>| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
+|<ul><li>[ ] </li></ul>| [Benchling](https://benchling.com/careers) | San Francisco, CA |
+|<ul><li>[ ] </li></ul>| [Betterment](https://www.betterment.com/careers/) | New York, NY |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
