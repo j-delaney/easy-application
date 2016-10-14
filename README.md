@@ -80,7 +80,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 |<ul><li>[ ] </li></ul>| [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA |
 |<ul><li>[ ] </li></ul>| [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
 |<ul><li>[ ] </li></ul>| [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
-|<ul><li>[x] </li></ul>| [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
+|<ul><li>[ ] </li></ul>| [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
 |<ul><li>[ ] </li></ul>| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
 |<ul><li>[ ] </li></ul>| [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angelas, CA |
 |<ul><li>[ ] </li></ul>| [CrowdStar](http://www.crowdstar.com/careers/) | Burlingame, CA |
