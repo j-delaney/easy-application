@@ -8,14 +8,14 @@ Please note that it is not encouraged to blindly apply to every company on this 
 
 |applied| Company Name | Location |
 | --- | --- | --- |
-|<ul><li>[x] item1</li><li>[ ] item2</li></ul>| [21](https://jobs.lever.co/21) | San Francisco, CA |
-| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
-| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
-| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
-| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
-| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
+|<ul><li>[ ] item1</li></ul>| [21](https://jobs.lever.co/21) | San Francisco, CA |
+|<ul><li>[ ] item1</li></ul>|| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
+|<ul><li>[ ] item1</li></ul>|| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
+|<ul><li>[ ] item1</li></ul>|| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
+|<ul><li>[ ] item1</li></ul>|| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
+|<ul><li>[ ] item1</li></ul>|| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
+|<ul><li>[ ] item1</li></ul>|| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
+|<ul><li>[ ] item1</li></ul>|| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
