@@ -104,6 +104,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [EdX](https://www.edx.org/careers) | Cambridge, MA |
 | [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
+| [Element.ai](http://www.elementai.com/jobs) | Montreal, Canada |
 | [Elemental Technologies](http://www.elementaltechnologies.com/company/careers) |  |
 | [EnergySavvy](http://www.energysavvy.com/careers) | Seattle, WA |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
