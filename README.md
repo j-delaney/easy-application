@@ -144,7 +144,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
 | [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
 | [Infinera](https://www.infinera.com/company/career/jobs/) | Sunnyvale, CA |
-| [InfluxDB](https://boards.greenhouse.io/influxdb) | Denver, CO; New York, NY; San Francisco, CA |
+| [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
 | [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
 | [InstaCart](https://www.instacart.com/careers) | San Francisco, CA |
 | [Integral Ad Science](http://integralads.com/about/careers/) | New York, NY; Seattle, WA |
