@@ -22,6 +22,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
+| [Amino](https://amino.com/careers/) |  |
 | [Amobee](http://amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Provo, UT |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
