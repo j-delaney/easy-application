@@ -119,6 +119,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
+| [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
