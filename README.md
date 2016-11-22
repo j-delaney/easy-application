@@ -334,6 +334,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA |
+| [Wealthsimple](https://www.wealthsimple.com/jobs) | Toronto, ON, Canada |
 | [Weebly](http://careers.weebly.com/) | San Francisco, CA |
 | [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
