@@ -165,6 +165,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
 | [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
+| [JustWatch](https://www.justwatch.com/us/talent/) | Berlin, Germany |
 | [KeepSafe](https://www.getkeepsafe.com/careers.html) | San Francisco, CA |
 | [Khan Academy](https://www.khanacademy.org/careers) | Mountain View, CA; Remote |
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
