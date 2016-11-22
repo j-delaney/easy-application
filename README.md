@@ -54,6 +54,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Bungie](https://www.bungie.net/en/AboutUs/index#!page=careers) | Bellevue, WA |
 | [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
+| [Capsule](https://www.capsulecares.com/about/) | New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Carbon](http://carbon3d.com/careers/) | Redwood City, CA |
 | [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
