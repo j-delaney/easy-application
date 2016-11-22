@@ -117,6 +117,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) |  |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
+| [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
