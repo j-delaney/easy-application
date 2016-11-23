@@ -174,6 +174,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
 | [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
+| [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
 | [LastPass](https://lastpass.com/jobs/) | Fairfax, VA |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
