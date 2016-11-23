@@ -299,6 +299,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
+| [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
 | [Tango](https://www.tango.me/careers) |  |
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
