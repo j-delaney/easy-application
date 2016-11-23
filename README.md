@@ -306,7 +306,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
 | [The League](http://jobs.theleague.com/) |  |
 | [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
-| [ThoughtWorks](https://www.thoughtworks.com/careers) | Atlanta, Chicago, Dallas, Denver, NY, SF; South America; Europe; Asia; Oceania |
+| [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
 | [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA |
 | [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA |
 | [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
