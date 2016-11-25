@@ -185,7 +185,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA |
 | [Linode](https://www.linode.com/careers) | Haddonfield, NJ |
 | [Lithium](http://www.lithium.com/company/careers/job-openings/) | Austin, TX; San Francisco, CA |
-| [Livescribe](http://www.livescribe.com/en-us/jobs/) | Oakland, CA |
+| [Livescribe](http://www.livescribe.com/en-us/jobs/) | Redwood City, CA |
 | [Logitech](http://www.logitech.com/en-us/careers/home) | Newark, CA |
 | [Looker](http://www.looker.com/company/careers) | San Francisco, CA |
 | [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
