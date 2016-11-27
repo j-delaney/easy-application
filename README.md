@@ -200,7 +200,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Matterport](http://matterport.com/positions/) | Mountain View, CA |
 | [MaxCDN](https://www.maxcdn.com/careers/) | Los Angeles, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
-| [Medium](https://medium.com/@Medium/jobs-page-b157594e8fce) | San Francisco, CA |
+| [Medium](https://jobs.medium.com/) | San Francisco, CA |
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
