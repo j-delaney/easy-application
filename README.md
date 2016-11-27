@@ -241,7 +241,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
 | [Postmates](https://postmates.com/jobs) | San Francisco, CA |
-| [Prezi](http://prezi.com/jobs/) |  |
+| [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  |
 | [Priceline](http://careers.priceline.com/) | Norwalk, CT |
 | [Prism](https://prism.com/careers/) | San Francisco, CA |
 | [Pristine](https://jobs.lever.co/pristine/) | Austin, TX |
