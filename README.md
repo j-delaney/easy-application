@@ -203,6 +203,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
 | [Medium](https://jobs.medium.com/) | San Francisco, CA |
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
+| [Mesosphere](https://mesosphere.com/careers/) | San Francisco, CA; Hamburg, Germany |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
 | [Mind Candy](http://mindcandy.com/careers) |  |
