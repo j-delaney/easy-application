@@ -104,6 +104,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
+| [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/Careers.aspx) | Bothell, WA |
