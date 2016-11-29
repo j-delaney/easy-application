@@ -49,7 +49,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
-| [Box](https://www.box.com/careers/) | Redwood City, CA; San Fransisco, CA; New York, NY; London, UK |
+| [Box](https://www.box.com/careers/) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
