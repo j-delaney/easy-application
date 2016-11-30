@@ -185,7 +185,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
 | [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
-| [Liftoff](http://liftoff.io/company/careers/#start)|Palo Alto, CA|
+| [Liftoff](http://liftoff.io/company/careers/#start) | Palo Alto, CA |
 | [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA |
 | [Linode](https://www.linode.com/careers) | Haddonfield, NJ |
 | [Lithium](http://www.lithium.com/company/careers/job-openings/) | Austin, TX; San Francisco, CA |
