@@ -103,6 +103,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DollarShaveClub](https://www.dollarshaveclub.com/join-the-team) | Los Angeles, CA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
+| [DOT Digital Group](http://dotgroup.com.br/) | Florianópolis, SC, Brazil; São Paulo, SP, Brazil; Brasília, DF, Brazil; Rio de Janeiro, RJ, Brazil; Belo Horizonte, MG, Brazil |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
