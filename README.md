@@ -147,6 +147,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Haiku Deck](https://www.haikudeck.com/jobs) | Seattle, WA |
 | [Hart, Inc.](http://hart.com/careers/) | Anaheim, CA |
 | [Helix](https://www.helix.com/careers/) | San Carlos, CA; San Diego, CA |
+| [Helpling](https://www.helpling.de/careers) | Berlin, Germany |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
 | [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
