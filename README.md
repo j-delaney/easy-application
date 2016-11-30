@@ -22,7 +22,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
-| [Amino](https://amino.com/careers/) |  |
+| [Amino](https://amino.com/careers/) | San Francisco, CA |
 | [Amobee](http://amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
@@ -50,7 +50,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
-| [Box](https://www.box.com/careers/) |  |
+| [Box](https://www.box.com/careers/) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
@@ -70,12 +70,12 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
 | [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
-| [Citrix](https://jobs.citrix.com/) |  |
+| [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote |
 | [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
 | [Clever](https://clever.com/about/jobs) | San Francisco, CA |
 | [Cloudera](http://www.cloudera.com/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA |
-| [Clue](https://www.helloclue.com/jobs.html) |  |
+| [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/company/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
 | [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
