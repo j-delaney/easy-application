@@ -328,7 +328,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
 | [Tint](https://www.tintup.com/jobs) | San Francisco, CA |
 | [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA |
-| [Top Hat](https://tophat.com/company/careers) | Toronto, ON; Denver, CO |
+| [Top Hat](https://tophat.com/company/careers) | Denver, CO; Toronto, ON |
 | [Trail](http://careers.trailapp.com) | London, UK; Remote |
 | [Travis CI](https://travisci.workable.com/) |  |
 | [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
