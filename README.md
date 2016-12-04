@@ -271,6 +271,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
+| [Roadtrippers](https://roadtrippers.com/jobs) | Cincinnati, OH; Remote |
 | [Robinhood](https://robinhood.com/jobs) | Palo Alto, CA |
 | [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
