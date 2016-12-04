@@ -197,7 +197,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
 | [Luxe](https://jobs.lever.co/luxe) | San Francisco, CA |
 | [Lyft](https://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA |
-| [Machine Zone](https://www.machinezone.com/careers) | Palo Alto, CA |
+| [Machine Zone](https://www.mz.com/careers.html) | Palo Alto, CA |
 | [Magic](https://getmagicnow.com/jobs) | San Francisco, CA |
 | [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA |
 | [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
