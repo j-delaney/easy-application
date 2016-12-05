@@ -327,6 +327,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
 | [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
 | [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA |
+| [Tinder](https://www.gotinder.com/jobs) | Palo Alto, CA; Los Angeles, CA |
 | [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA |
 | [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
 | [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
