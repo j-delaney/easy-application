@@ -335,6 +335,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Travis CI](https://travisci.workable.com/) |  |
 | [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
+| [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA |
 | [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
