@@ -126,6 +126,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
+| [FiveStars](http://www.fivestars.com/team/careers/) | Denver, Colorado; San Francisco, CA |
+| [Flatiron](https://www.flatiron.com/careers) | New York, NY |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
@@ -311,6 +313,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
+| [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
 | [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
 | [Tango](https://www.tango.me/careers) |  |
@@ -327,6 +330,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA |
 | [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
 | [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
+| [Tinder](https://www.gotinder.com/jobs) | Los Angeles, CA; Palo Alto, CA |
 | [Tint](https://www.tintup.com/jobs) | San Francisco, CA |
 | [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA |
 | [Top Hat](https://tophat.com/company/careers) | Denver, CO; Toronto, ON |
@@ -334,6 +338,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Travis CI](https://travisci.workable.com/) |  |
 | [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
+| [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA |
 | [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
