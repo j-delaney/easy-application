@@ -313,7 +313,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
-| [Symphony](https://symphony.com/company/careers) | Palo Alto, CA; New York, NY |
+| [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
 | [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
 | [Tango](https://www.tango.me/careers) |  |
@@ -330,7 +330,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA |
 | [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
 | [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
-| [Tinder](https://www.gotinder.com/jobs) | Palo Alto, CA; Los Angeles, CA |
+| [Tinder](https://www.gotinder.com/jobs) | Los Angeles, CA; Palo Alto, CA |
 | [Tint](https://www.tintup.com/jobs) | San Francisco, CA |
 | [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA |
 | [Top Hat](https://tophat.com/company/careers) | Denver, CO; Toronto, ON |
