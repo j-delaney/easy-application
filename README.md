@@ -138,7 +138,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [GoDaddy](http://careers.godaddy.net/) | Culver City - Media Temple, CA; Gilbert, AZ; Kirkland, WA; Scottsdale, AZ; Sunnyvale, CA; Tempe, AZ |
 | [Gree](http://product.gree.net/us/en/careers) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
-| [Groupon](https://jobs.groupon.com/categories/engineering) |  |
+| [Groupon](https://jobs.groupon.com/categories/engineering) | Chicago, IL|
 | [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
 | [Guidewire](https://careers.guidewire.com/jobs) | Foster City, CA |
 | [GumGum](http://gumgum.com/careers) | Santa Monica, CA |
