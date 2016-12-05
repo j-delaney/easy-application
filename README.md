@@ -359,7 +359,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
 | [Wish](https://www.wish.com/careers) | San Francisco, CA |
-| [Wolt](https://wolt.com/jobs) | Stockhold, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
+| [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
 | [Xero](https://www.xero.com/nz/about/careers/) |  |
