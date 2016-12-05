@@ -126,6 +126,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
+| [FiveStars](http://www.fivestars.com/team/careers/) | Denver, Colorado; San Francisco, CA |
 | [Flatiron](https://www.flatiron.com/careers) | New York, NY |
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
