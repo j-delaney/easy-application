@@ -270,6 +270,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
 | [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
+| [Resultados Digitais](https://jobs.lever.co/resultadosdigitais/) | Florianópolis, SC, Brazil |
 | [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
