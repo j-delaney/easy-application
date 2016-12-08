@@ -104,7 +104,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DollarShaveClub](https://www.dollarshaveclub.com/join-the-team) | Los Angeles, CA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
-| [DOT Digital Group](http://dotgroup.com.br/) | Florianópolis, SC, Brazil; São Paulo, SP, Brazil; Brasília, DF, Brazil; Rio de Janeiro, RJ, Brazil; Belo Horizonte, MG, Brazil |
+| [DOT Digital Group](http://dotgroup.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil; São Paulo, SP, Brazil; Brasília, DF, Brazil; Rio de Janeiro, RJ, Brazil; Belo Horizonte, MG, Brazil |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
@@ -271,7 +271,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
 | [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
-| [Resultados Digitais](https://jobs.lever.co/resultadosdigitais/) | Florianópolis, SC, Brazil |
+| [Resultados Digitais](http://resultadosdigitais.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil |
 | [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
@@ -304,7 +304,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
 | [Smule](http://www.smule.com/jobs) | San Francisco, CA |
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
-| [SocialBase](https://socialbase.workable.com/)| Florianópolis, SC, Brazil |
+| [SocialBase](http://www.socialbase.com.br/carreiras)| Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
 | [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
