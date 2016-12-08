@@ -284,6 +284,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
+| [Segment](https://segment.com/jobs) | San Francisco, CA |
 | [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
 | [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [SheerID](http://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
