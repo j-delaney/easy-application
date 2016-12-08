@@ -66,7 +66,9 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY |
 | [Centro](http://www.centro.net/careers) | Chicago, IL |
 | [change.org](https://www.change.org/careers) | San Francisco, CA |
+| [Chaordic](https://www.chaordic.com.br/vagas/) | Florianópolis, SC, Brazil |
 | [Checkr](https://checkr.com/careers/) | San Francisco, CA |
+| [Cheesecake Labs](https://www.ckl.io/careers/#) | San Francisco, CA; Florianópolis, SC, Brazil |
 | [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
 | [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
