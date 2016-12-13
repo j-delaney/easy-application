@@ -86,6 +86,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
 | [Collective Health](https://collectivehealth.com/jobs/) |  |
 | [Color](https://getcolor.com/careers) | Burlingame, CA |
+| [Compass](https://www.compass.com/careers/) | New York, NY |
+| [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
 | [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA |
 | [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
