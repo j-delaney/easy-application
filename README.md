@@ -120,14 +120,14 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
 | [Element.ai](http://www.elementai.com/jobs) | Montreal, Canada |
-| [Elemental Technologies](http://www.elementaltechnologies.com/company/careers) | Portland, OR; Theale, Reading United Kingdom; Causeway Bay, Hong Kong; Tokyo, Japan; Singapore |
+| [Elemental Technologies](http://www.elementaltechnologies.com/company/careers) | Causeway Bay, Hong Kong; Portland, OR;  Singapore; Theale, Reading United Kingdom;  Tokyo, Japan |
 | [EnergySavvy](http://www.energysavvy.com/careers) | Seattle, WA |
 | [Epic](https://careers.epic.com/) | Madison, WI |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
 | [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
-| [Farfetch](http://www.farfetch.com/careers) | London, UK; Hong Kong; Porto, Portugal; Guimaraes, Portugal; Lisbon, Portugal; Shangai, China; Moscow, Russia |
+| [Farfetch](http://www.farfetch.com/careers) | Guimaraes, Portugal; Hong Kong; Lisbon, Portugal; London, UK; Moscow, Russia; Porto, Portugal; Shangai, China |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
@@ -177,7 +177,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Intercom](https://www.intercom.io/careers) | San Francisco, CA |
 | [Intrepid Pursuits](http://intrepid.io/careers) | Cambridge, MA |
 | [Invoice2go](https://invoice.2go.com/en-au/careers/) | Redwood City, CA |
-| [IXL Learning](https://www.ixl.com/company/jobs) | San Mateo, CA; Raleigh-Durham, NC |
+| [IXL Learning](https://www.ixl.com/company/jobs) | Raleigh-Durham, NC; San Mateo, CA |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/about-us/working-at-jet/) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
@@ -377,11 +377,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
-| [Xero](https://www.xero.com/nz/about/careers/) | Milton Keynes, UK; London, UK; New Zealand; Australia; Singapore |
+| [Xero](https://www.xero.com/nz/about/careers/) | Australia;  London, UK; Milton Keynes, UK; New Zealand; Singapore |
 | [Yelp](http://www.yelp.com/careers/home) | San Francisco, CA |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
-| [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; London, UK; Dortmund, Germany |
+| [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; Dortmund, Germany; London, UK  |
 | [Zappos](https://jobs.zappos.com/choose-your-team) | Buffalo, NY; Las Vegas, NV |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
 | [Zenefits](https://www.zenefits.com/careers/) | San Francisco, CA |
