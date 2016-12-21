@@ -318,7 +318,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
-| [StackPath (https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
+| [StackPath](https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
 | [SteelHouse](http://steelhouse.com/about/) | Culver City, CA |
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
