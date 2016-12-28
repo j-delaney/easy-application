@@ -262,6 +262,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
 | [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
+| [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
 | [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
 | [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA |
 | [Quip](https://quip.com/about/jobs) | San Francisco, CA |
