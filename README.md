@@ -263,6 +263,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
 | [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
+| [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
 | [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
 | [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA |
 | [Quip](https://quip.com/about/jobs) | San Francisco, CA |
@@ -319,7 +320,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
-| [StackPath (https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
+| [StackPath](https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
 | [SteelHouse](http://steelhouse.com/about/) | Culver City, CA |
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
