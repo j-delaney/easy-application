@@ -134,6 +134,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
 | [FiveStars](http://www.fivestars.com/team/careers/) | Denver, Colorado; San Francisco, CA |
 | [Flatiron](https://www.flatiron.com/careers) | New York, NY |
+| [Flexport](https://www.flexport.com/careers) | Amsterdam, NL; Hong Kong Island, HK; New York, NY; San Francisco, CA; Shenzen, CN;|
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
@@ -210,6 +211,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Magic](https://getmagicnow.com/jobs) | San Francisco, CA |
 | [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA |
 | [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
+| [Mark 43](https://www.mark43.com/jobs/)| Ney York, NY; Toronto; Washington, DC; |
 | [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA |
 | [Matterport](http://matterport.com/positions/) | Mountain View, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
@@ -287,6 +289,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
+| [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
@@ -323,6 +326,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
 | [StackPath](https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
 | [SteelHouse](http://steelhouse.com/about/) | Culver City, CA |
+| [Stitch Fix](https://www.stitchfix.com/careers) | Austin, TX; Bethlehem, PA; Dallas TX; Phoenix, AZ; Pittsburg, PA; Remote, US; San Francisco, CA|
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
 | [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
