@@ -27,7 +27,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
 | [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY |
-| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, California; Santa Barbara, CA |
+| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
 | [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
 | [Aptible](https://www.aptible.com/company/) | Denver, CO |
