@@ -1,7 +1,7 @@
 $(document).ready(function(e) {
 	var companies = [];
 	var countries = {};
-	$.get('../README.md', function(response) {
+	$.get('https://raw.githubusercontent.com/j-delaney/easy-application/master/README.md', function(response) {
 		var data = response.split('\n| Company Name | Location |\n| --- | --- |\n')
 		$('#placeholder').html(markdown.toHTML( data[0] ));
 
