@@ -211,7 +211,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Magic](https://getmagicnow.com/jobs) | San Francisco, CA |
 | [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA |
 | [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
-| [Mark 43](https://www.mark43.com/jobs/)| New York, NY; Toronto; Washington, DC |
+| [Mark 43](https://www.mark43.com/jobs/) | New York, NY; Toronto; Washington, DC |
 | [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA |
 | [Matterport](http://matterport.com/positions/) | Mountain View, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
@@ -315,7 +315,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
 | [Smule](http://www.smule.com/jobs) | San Francisco, CA |
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
-| [SocialBase](http://www.socialbase.com.br/carreiras)| Florianópolis, SC, Brazil |
+| [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
 | [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
