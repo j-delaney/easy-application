@@ -6,6 +6,7 @@ This is a list of companies that are easy to apply to. These companies use a job
 
 Please note that it is not encouraged to blindly apply to every company on this list. I made this list because I felt that the application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
 
+<!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
 | [21](https://jobs.lever.co/21) | San Francisco, CA |
