@@ -63,7 +63,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Canary](https://canary.is/careers/) | New York, NY |
 | [Capsule](https://www.capsulecares.com/about/) | New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
-| [Carbon](http://carbon3d.com/careers/) | Redwood City, CA |
+| [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
 | [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
 | [Casper](https://boards.greenhouse.io/casper) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY |
