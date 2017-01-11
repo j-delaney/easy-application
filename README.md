@@ -49,7 +49,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
 | [Blend Labs](https://blendlabs.com/company/jobs/) | San Francisco, CA |
-| [Bloomz](https://www.bloomz.net/) | Redmond, WA |
+| [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Bonuz](http://bonuz.sumone.com.br/contato.html#talent) | Florianópolis, SC, Brazil |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
