@@ -195,6 +195,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
+| [Laserfiche](http://jobs.laserfiche.com/) | Fort Lauderdale, FL; Guadalajara, Mexico; Hong Kong; Los Angeles, CA; London, UK; Washington, D.C.; Shanghai; Toronto, Canada |
 | [LastPass](https://lastpass.com/jobs/) | Fairfax, VA |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
