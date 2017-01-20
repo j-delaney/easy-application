@@ -35,6 +35,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Aptible](https://www.aptible.com/company/) | Denver, CO |
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
+| [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
 | [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company/careers/) | Durham, NC |
