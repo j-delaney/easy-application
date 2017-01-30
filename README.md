@@ -111,7 +111,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
 | [DollarShaveClub](https://www.dollarshaveclub.com/join-the-team) | Los Angeles, CA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
-| [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
+| [Dot & Bo](https://www.dotandbo.com/careers) | New York, NY |
 | [DOT Digital Group](http://dotgroup.com.br/trabalhe-conosco/) | Belo Horizonte, MG, Brazil; Brasília, DF, Brazil; Florianópolis, SC, Brazil; Rio de Janeiro, RJ, Brazil; São Paulo, SP, Brazil |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
