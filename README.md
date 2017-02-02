@@ -103,6 +103,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
 | [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
+| [Curalate](https://www.themuse.com/companies/curalate) | London, UK; New York, NY; Philadelphia, PA; Seattle, WA |
 | [Datadog](https://www.datadoghq.com/careers/) | Boston, MA; New York, NY; Paris, FR |
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
