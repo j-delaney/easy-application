@@ -269,7 +269,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  |
 | [Priceline](http://careers.priceline.com/) | Norwalk, CT |
 | [Prism](https://prism.com/careers/) | San Francisco, CA |
-| [Pristine](https://jobs.lever.co/pristine/) | Austin, TX |
+| [Pristine](https://pristine.io/careers/) | Austin, TX |
 | [Procore Technologies](https://www.procore.com/jobs/) | Santa Barbara, CA |
 | [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
@@ -284,7 +284,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Radius](https://radius.com/jobs/) | San Francisco, CA |
 | [ReadMe](https://readme.io/careers/) | San Francisco, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
-| [Reddit](https://jobs.lever.co/reddit) | San Francisco, CA |
+| [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
 | [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
 | [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
