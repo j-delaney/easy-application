@@ -141,6 +141,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Flatiron](https://www.flatiron.com/careers) | New York, NY |
 | [Flexport](https://www.flexport.com/careers) | Amsterdam, NL; Hong Kong Island, HK; New York, NY; San Francisco, CA; Shenzen, CN;|
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
+| [Flipkart](http://www.flipkartcareers.com/) | Bangalore, India |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
