@@ -6,7 +6,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 999,403,405,500
+  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 999,403,405,500 -w wayup.com
   
 notifications:
   email: false
