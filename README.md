@@ -135,7 +135,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
 | [Farfetch](http://www.farfetch.com/careers) | Guimaraes, Portugal; Hong Kong; Lisbon, Portugal; London, UK; Moscow, Russia; Porto, Portugal; Shangai, China |
-| [FaradayFuture](https://www.ff.com/en/careers/) | Los Angeles, CA |
+| [Faraday Future](https://www.ff.com/en/careers/) | Los Angeles, CA |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
