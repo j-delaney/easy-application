@@ -26,6 +26,7 @@ $(document).ready(function(e) {
 				company.countries.join('</p><p>')
 				+'</p></td></tr>')
 		});
+    $('.company a').prop('target', '_blank');
 		$('#filter').append('<option value="company">All</option>');
 		Object.keys(countries).map(function(item) {
 			$('#filter').append('<option value="'+countries[item].class+'">'+countries[item].name+'</option>')
