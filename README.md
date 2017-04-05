@@ -241,7 +241,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [Narrative Science](https://www.narrativescience.com/careers) | Chicago, IL |
-| [NCMEC](http://www.missingkids.com/Careers) | Alexandria, VA |
 | [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
 | [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
@@ -407,7 +406,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
 | [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
 | [ZocDoc](https://www.zocdoc.com/careers) | New York, NY |
-| [Zoosk](https://about.zoosk.com/en-us/careers/) | San Francisco, CA |
+| [Zoosk](https://about.zoosk.com/en/careers/) | San Francisco, CA |
 | [Zscaler](https://www.zscaler.com/careers/) | San Jose, CA |
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
 | [Zynga](https://www.zynga.com/careers) | San Francisco, CA |
