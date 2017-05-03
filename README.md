@@ -100,7 +100,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
 | [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
 | [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA |
-| [CrowdStar](http://www.crowdstar.com/jobs/) | Burlingame, CA |
+| [CrowdStar](https://jobs.jobvite.com/glu-mobile/) | Burlingame, CA |
 | [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
 | [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
