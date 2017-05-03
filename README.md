@@ -100,7 +100,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
 | [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
 | [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA |
-| [CrowdStar](http://www.crowdstar.com/jobs/) | Burlingame, CA |
+| [CrowdStar](https://jobs.jobvite.com/glu-mobile/) | Burlingame, CA |
 | [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
 | [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
@@ -168,6 +168,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Helpling](https://www.helpling.de/careers) | Berlin, Germany |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
+| [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Chicago, IL; Denver, CO; Seattle, WA |
 | [HubSpot](http://www.hubspot.com/jobs) | Cambridge, MA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
