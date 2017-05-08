@@ -330,6 +330,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
 | [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
+| [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York City, NY; San Francisco, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Sprout Social](http://sproutsocial.com/careers) | Chicago, IL |
