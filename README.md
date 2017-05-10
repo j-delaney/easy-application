@@ -129,6 +129,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Element.ai](http://www.elementai.com/jobs) | Montreal, Canada |
 | [Elemental Technologies](http://www.elementaltechnologies.com/company/careers) | Causeway Bay, Hong Kong; Portland, OR;  Singapore; Theale, Reading United Kingdom;  Tokyo, Japan |
 | [EnergySavvy](http://www.energysavvy.com/careers) | Seattle, WA |
+| [Entelo](https://www.entelo.com/careers/) | San Francisco, CA |
 | [Epic](https://careers.epic.com/) | Madison, WI |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
 | [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |
