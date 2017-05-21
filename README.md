@@ -43,7 +43,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [Axxess](http://www.axxess.com/careers) | Dallas, TX |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
-| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
 | [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote |
 | [Betterment](https://www.betterment.com/careers/) | New York, NY |
