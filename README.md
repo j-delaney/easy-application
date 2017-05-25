@@ -366,6 +366,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Trail](http://careers.trailapp.com) | London, UK; Remote |
 | [Travis CI](https://travisci.workable.com/) | Remote, US |
 | [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
+| [Trustpilot](https://jobs.trustpilot.com/) | Copenhagen, Denmark |
 | [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
 | [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
