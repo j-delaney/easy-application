@@ -173,6 +173,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [IFTTT](https://ifttt.com/jobs) | San Francisco, CA |
+|[IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
 | [Illumio](https://www.illumio.com/careers) | Sunnyvale, CA |
 | [Imgur](http://imgur.com/jobs) | San Francisco, CA |
 | [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
@@ -257,7 +258,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
 | [OpenX](http://openx.com/open-positions/) | Menlo Park, CA |
 | [Operator](https://operator.com/jobs) | San Francisco, CA |
-| [Opower](https://opower.com/careers/) | Arlington, VA; San Francisco, CA |
 | [Optimizely](https://www.optimizely.com/careers/) | San Francisco, CA |
 | [Oscar Health](https://www.hioscar.com/careers/) | New York, NY |
 | [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
