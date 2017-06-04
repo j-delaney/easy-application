@@ -279,7 +279,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
 | [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
-| [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA |
+| [Qubole](https://www.qubole.com/company/careers/) | Bangalore, India; Mountain View, CA |
 | [Quip](https://quip.com/about/jobs) | San Francisco, CA |
 | [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
