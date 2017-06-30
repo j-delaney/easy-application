@@ -350,6 +350,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
+| [TextNow](http://about.textnow.com/careers/#openings) | San Francisco, CA; Waterloo, ON; |
 | [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
 | [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
