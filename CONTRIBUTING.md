@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are very welcome! If you know of a company that has an easy application process please open up a pull request to add it to the list. We're looking to add more non-US companies so those are grealy appreciated. Some things to keep in mind:
+Contributions are very welcome! If you know of a company that has an easy application process please open up a pull request to add it to the list. We're looking to add more non-US companies so those are greatly appreciated. Some things to keep in mind:
 
 * Be sure to include a link to the company's main career page (e.g. https://www.beepi.com/careers/teams rather than https://jobs.lever.co/beepi).
 * Maintain alphabetical order.
