@@ -150,7 +150,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
-| [Gilt](http://www.gilt.com/careers/) | New York, NY |
 | [GitHub](https://github.com/about/jobs) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
 | [GoDaddy](http://careers.godaddy.net/) | Culver City - Media Temple, CA; Gilbert, AZ; Kirkland, WA; Scottsdale, AZ; Sunnyvale, CA; Tempe, AZ |
