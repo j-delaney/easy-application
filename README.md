@@ -26,7 +26,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
 | [Amino](https://amino.com/careers/) | San Francisco, CA |
-| [Amobee](http://amobee.com/careers/) | Foster City, CA |
+| [Amobee](http://www.amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
 | [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY |
@@ -100,7 +100,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
 | [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA |
 | [CrowdStar](https://jobs.jobvite.com/glu-mobile/) | Burlingame, CA |
-| [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
+| [Cruise](https://jobs.carnival.com/careers) | San Francisco, CA |
 | [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
 | [Curse](https://www.curseinc.com/careers) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia |
@@ -217,7 +217,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Logitech](http://www.logitech.com/en-us/careers/home) | Newark, CA |
 | [Looker](http://www.looker.com/company/careers) | San Francisco, CA |
 | [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
-| [Luxe](https://jobs.lever.co/luxe) | San Francisco, CA |
+| [Luxe](https://angel.co/luxe-1/jobs) | San Francisco, CA |
 | [Lyft](https://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA |
 | [Machine Zone](https://www.mz.com/careers.html) | Palo Alto, CA |
 | [Magic](https://getmagicnow.com/jobs) | San Francisco, CA |
