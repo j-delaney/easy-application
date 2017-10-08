@@ -29,7 +29,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Amobee](http://www.amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
 | [ANDigital](https://and.digital/join-us/) | London, WC2N 4JF, UK |
-| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY |
+| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York, NY |
 | [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
 | [AppNexus](https://www.appnexus.com/en/company/careers) | New York, NY |
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
@@ -330,7 +330,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
 | [Source Intelligence](https://www.sourceintelligence.com/careers/) | San Diego, CA |
-| [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York City, NY; San Francisco, CA |
+| [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York, NY; San Francisco, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotifyjobs.com/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Sprout Social](https://sproutsocial.com/careers) | Chicago, IL |
@@ -374,7 +374,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs/) | San Francisco, CA |
 | [Twitter](https://careers.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
-| [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York City, NY |
+| [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York, NY |
 | [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
 | [Unity](https://careers.unity.com) | Austin, TX; Bellevue, WA; San Francisco, CA |
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
