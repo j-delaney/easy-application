@@ -375,6 +375,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs/) | San Francisco, CA |
 | [Twitter](https://careers.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
+| [Two Roads](http://tworoads.co.in/#careers) | Bangalore, India |
 | [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York, NY |
 | [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
 | [Unity](https://careers.unity.com) | Austin, TX; Bellevue, WA; San Francisco, CA |
