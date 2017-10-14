@@ -250,6 +250,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
 | [Niantic](https://www.nianticlabs.com/jobs/) | Los Angeles, CA; San Francisco, CA; Seattle, WA; Sunnyvale, CA |
 | [Nulogy](https://nulogy.com/who-we-are/careers/) | Toronto, ON, Canada |
+| [Nutanix](https://www.nutanix.com/careers/) | San Jose, CA |
 | [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA |
 | [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA |
 | [Onefootball](https://www.onefootball.com/company/careers.html) | Berlin, Germany |
