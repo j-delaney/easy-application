@@ -144,6 +144,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Flexport](https://www.flexport.com/careers) | Amsterdam, NL; Hong Kong Island, HK; New York, NY; San Francisco, CA; Shenzen, CN;|
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Flipkart](http://www.flipkartcareers.com/) | Bangalore, India |
+| [Flipp](https://corp.flipp.com/careers) | Toronto, ON, Canada |
 | [Forex Factory](https://www.forexfactory.com/careers) | Tampa, FL |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
@@ -265,6 +266,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
+| [Paytm Labs](https://https://jobs.lever.co/paytm) | Noida, India; Bangalore, India; Toronto, ON, Canada |
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
@@ -380,6 +382,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
 | [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK |
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
+| [Veeva](http://jobs.jobvite.com/veeva/jobs) | New York, NY; Toronto, ON; Pleasanton, CA; Remote |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
 | [VEVO](https://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY |
