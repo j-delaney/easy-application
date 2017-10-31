@@ -346,6 +346,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
 | [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
+| [Taco Bell, Corporate](https://www.tacobell.com/careers) | Irvine, CA |
 | [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
 | [TED](https://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
