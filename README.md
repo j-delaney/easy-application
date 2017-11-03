@@ -18,7 +18,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Acorns](https://www.acorns.com/careers) | Irvine, CA |
 | [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada |
 | [Addepar](https://addepar.com/careers/) | Mountain View, CA |
-| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
@@ -286,6 +285,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Rackspace](https://rackspace.jobs/) | Austin, TX; San Antonio, TX |
 | [Radius](http://radius.com/careers/) | San Francisco, CA |
 | [ReadMe](https://readme.io/careers/) | San Francisco, CA |
+| [Redbooth](https://www.redbooth.com/careers/) | Palo Alto, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
 | [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
 | [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
