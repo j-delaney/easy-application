@@ -9,7 +9,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 <!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
-| [21](https://jobs.lever.co/21) | San Francisco, CA |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
 | [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA |
@@ -207,7 +206,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
 | [Laserfiche](http://jobs.laserfiche.com/) | Fort Lauderdale, FL; Guadalajara, Mexico; Hong Kong; Los Angeles, CA; London, UK; Washington, D.C.; Shanghai; Toronto, Canada |
-| [LastPass](https://lastpass.com/jobs/) | Fairfax, VA |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
 | [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
@@ -318,7 +316,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Sensus](https://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
-| [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
 | [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ |
