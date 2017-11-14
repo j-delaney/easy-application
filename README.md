@@ -20,6 +20,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Addepar](https://addepar.com/careers/) | Mountain View, CA |
 | [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
+| [Ahrefs](https://ahrefs.com/jobs) | Remote; Singapore |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
 | [Algebraix](http://algebraixdata.com/section/careers/) | San Diego, CA |
@@ -66,6 +67,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Capsule](https://www.capsulecares.com/about/) | New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
+| [Carousell](https://boards.greenhouse.io/carousell) | Singapore |
 | [Casetext](https://casetext.com/jobs) | San Francisco, CA |
 | [Casper](http://www.casper.com/jobs) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/careers/) | New York, NY |
@@ -289,6 +291,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
 | [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
 | [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
+| [RedMart](http://about.redmart.com/careers/) | India; Singapore |
 | [Redis-Labs](https://redislabs.com/company/careers/) | Tel Aviv, Israel |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
 | [ResearchGate](https://www.researchgate.net/careers#positions) | Berlin, Germany |
