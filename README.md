@@ -176,7 +176,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [IFTTT](https://ifttt.com/jobs) | San Francisco, CA |
-|[IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
+| [IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
 | [Illumio](https://www.illumio.com/career-teamillumio) | Sunnyvale, CA |
 | [Imgur](http://imgur.com/jobs) | San Francisco, CA |
 | [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
@@ -185,6 +185,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
 | [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
 | [InstaCart](https://careers.instacart.com/) | San Francisco, CA |
+| [Instructure](https://www.instructure.com/careers/) | Chicago, IL; Hong Kong; London, UK; Pleasant Grove, UT; Salt Lake City, UT; São Paulo, Brazil; Seattle, WA; Sydney, Australia |
 | [Integral Ad Science](https://integralads.com/about/careers/) | New York, NY; Seattle, WA |
 | [Intellisis](http://www.knuedge.com/) | San Diego, CA |
 | [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
