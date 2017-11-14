@@ -293,6 +293,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
 | [RedMart](http://about.redmart.com/careers/) | India; Singapore |
 | [Redis-Labs](https://redislabs.com/company/careers/) | Tel Aviv, Israel |
+| [Red Nova Labs](http://www.rednovalabs.com/) | Kansas City, KS |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
 | [ResearchGate](https://www.researchgate.net/careers#positions) | Berlin, Germany |
 | [Resultados Digitais](https://resultadosdigitais.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil |
