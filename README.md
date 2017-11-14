@@ -391,7 +391,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
-| [VEVO](https://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY |
+| [VEVO](https://www.vevo.com/careers) | San Francisco, CA; New York, NY |
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
