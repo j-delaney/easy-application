@@ -81,7 +81,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](http://www.clearslide.com/careers/) | San Francisco, CA |
 | [Clever](https://clever.com/about/jobs) | San Francisco, CA |
-| [Cloudera](http://jobs.jobvite.com/cloudera/) | Palo Alto, CA; San Francisco, CA |
+| [Cloudera](https://www.cloudera.com/careers.html) | Palo Alto, CA; San Francisco, CA |
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
