@@ -314,7 +314,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
-| [SendGrid](https://sendgrid.com/careers/) | Boulder, CO; Denver, CO |
+| [SendGrid](https://sendgrid.com/careers/) | Denver, CO |
 | [Sensus](https://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
