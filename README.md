@@ -150,6 +150,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
+| [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany; Zurich, Switzerland |
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
 | [GitHub](https://github.com/about/careers) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
