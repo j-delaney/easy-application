@@ -81,6 +81,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](http://www.clearslide.com/careers/) | San Francisco, CA |
 | [Clever](https://clever.com/about/jobs) | San Francisco, CA |
+| [Clippings](https://github.com/clippings/join-us#readme) | Sofia, Bulgaria |
 | [Cloudera](https://www.cloudera.com/careers.html) | Palo Alto, CA; San Francisco, CA |
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
@@ -149,6 +150,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
+| [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany; Zurich, Switzerland |
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
 | [GitHub](https://github.com/about/careers) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
@@ -235,6 +237,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Mind Candy](http://mindcandy.com/careers) | London, UK |
 | [MindTouch](https://mindtouch.com/about/careers) | San Diego, CA |
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
+| [Mixmax](https://mixmax.com/careers) | San Francisco, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
 | [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
@@ -312,7 +315,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
-| [SendGrid](https://sendgrid.com/careers/) | Boulder, CO; Denver, CO |
+| [SendGrid](https://sendgrid.com/careers/) | Denver, CO |
 | [Sensus](https://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
