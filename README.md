@@ -24,6 +24,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Algebraix](http://algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/about/careers) | San Francisco, CA |
+| [Amazon](https://www.amazon.jobs/) | San Francisco, CA |
 | [Amino](https://amino.com/careers/) | San Francisco, CA |
 | [Amobee](http://www.amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
