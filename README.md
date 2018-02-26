@@ -197,6 +197,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/careers) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
+| [Jiminny](https://www.jiminny.com/careers.html) | Sofia, Bulgaria |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
 | [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
 | [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany |
