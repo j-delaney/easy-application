@@ -266,7 +266,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
-| [Paytm Labs](//https://jobs.lever.co/paytm) | Noida, India; Bangalore, India; Toronto, ON, Canada |
+| [Paytm Labs](//https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
@@ -382,7 +382,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
 | [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK |
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
-| [Veeva](http://jobs.jobvite.com/veeva/jobs) | New York, NY; Toronto, ON; Pleasanton, CA; Remote |
+| [Veeva](http://jobs.jobvite.com/veeva/jobs) | New York, NY; Pleasanton, CA; Remote; Toronto, ON |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
 | [VEVO](https://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY |
