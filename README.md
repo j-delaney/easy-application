@@ -363,7 +363,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
 | [The Climate Corporation](https://climate.com/careers) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
-| [The League](http://www.theleague.com/jobs/) |  |
+| [The League](http://www.theleague.com/jobs/) | San Francisco, CA |
 | [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
 | [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
 | [Thumbtack](https://www.thumbtack.com/jobs/) | San Francisco, CA |
