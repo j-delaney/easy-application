@@ -36,7 +36,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
 | [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
-| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
@@ -207,6 +206,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
+| [Knowles](http://www.knowles.com/eng/Our-company/Careers) | Mountain View, CA |
 | [Laserfiche](http://jobs.laserfiche.com/) | Fort Lauderdale, FL; Guadalajara, Mexico; Hong Kong; Los Angeles, CA; London, UK; Washington, D.C.; Shanghai; Toronto, Canada |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
