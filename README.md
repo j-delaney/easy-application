@@ -75,7 +75,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Cheesecake Labs](https://cheesecakelabs.com/careers/) | Florianópolis, SC, Brazil; San Francisco, CA |
 | [Chewy](https://www.chewy.com/jobs) | Dania Beach, FL |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
-| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
+| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA |
 | [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote |
 | [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](http://www.clearslide.com/careers/) | San Francisco, CA |
