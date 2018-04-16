@@ -169,7 +169,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Helix](https://www.helix.com/careers) | San Carlos, CA; San Diego, CA |
 | [Helpling](https://www.helpling.de/careers) | Berlin, Germany |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
-| [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
 | [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Chicago, IL; Denver, CO; Seattle, WA |
 | [HubSpot](https://www.hubspot.com/jobs) | Cambridge, MA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
@@ -197,6 +196,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/careers) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
+| [Jiminny](https://www.jiminny.com/careers.html) | Sofia, Bulgaria |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
 | [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
 | [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany |
@@ -323,7 +323,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
-| [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ |
+| [Shutterfly](https://www.shutterflyinc.com/jobs/) | Greenville, SC; Redwood City, CA; Tempe, AZ |
 | [Sift Science](https://siftscience.com/careers) | San Francisco, CA |
 | [Signifyd](https://www.signifyd.com/careers/) | Remote; San Jose, CA |
 | [SimplyCredit](https://simplycreditinc.com/careers) | San Francisco, CA |
