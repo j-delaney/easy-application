@@ -51,7 +51,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Blend Labs](https://blendlabs.com/careers/) | San Francisco, CA |
 | [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
-| [Bonuz](http://bonuz.sumone.com.br/contato.html#talent) | Florianópolis, SC, Brazil |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
 | [Box](https://www.box.com/careers) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
@@ -85,13 +84,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
-| [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
 | [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
 | [Collective Health](https://collectivehealth.com/jobs/) | San Francisco, CA |
 | [Color](https://www.color.com/careers) | Burlingame, CA |
 | [Compass](https://www.compass.com/careers/) | New York, NY |
-| [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
 | [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
 | [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
@@ -348,7 +345,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](https://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
-| [StackPath](https://www.stackpath.com/careers/) | Los Angeles, CA; Portland, OR |
 | [SteelHouse](https://steelhouse.com/about/) | Culver City, CA |
 | [Stitch Fix](https://www.stitchfix.com/careers) | Austin, TX; Bethlehem, PA; Dallas, TX; Phoenix, AZ; Pittsburg, PA; Remote, US; San Francisco, CA|
 | [Stripe](https://stripe.com/jobs) | San Francisco, CA |
@@ -386,7 +382,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs/) | San Francisco, CA |
 | [Twitter](https://careers.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
-| [Two Roads](http://tworoads.co.in/#careers) | Bangalore, India |
 | [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York, NY |
 | [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
 | [Unity](https://careers.unity.com) | Austin, TX; Bellevue, WA; San Francisco, CA |
