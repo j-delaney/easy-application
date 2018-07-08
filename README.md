@@ -291,6 +291,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
 | [Rackspace](https://rackspace.jobs/) | Austin, TX; San Antonio, TX |
 | [Radius](http://radius.com/careers/) | San Francisco, CA |
+| [RapidMiner](https://rapidminer.com/us/careers/) | Boston, MA; London, UK |
 | [ReadMe](https://readme.io/careers/) | San Francisco, CA |
 | [Redbooth](https://www.redbooth.com/careers/) | Palo Alto, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
@@ -311,6 +312,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
+| [Runkeeper](https://runkeeper.com/careers) | Boston, MA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
