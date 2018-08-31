@@ -287,6 +287,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Quantcast](https://www.quantcast.com/careers/) | San Francisco, CA |
 | [Qubole](https://www.qubole.com/company/careers/) | Bangalore, India; Mountain View, CA |
 | [Quip](https://quip.com/about/jobs) | San Francisco, CA |
+| [Quipu](https://itnig.net/jobs) | Barcelona, Spain |
 | [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
 | [Quora](https://www.quora.com/careers) | Mountain View, CA |
 | [Rackspace](https://rackspace.jobs/) | Austin, TX; San Antonio, TX |
