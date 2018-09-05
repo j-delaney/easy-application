@@ -237,7 +237,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
 | [Mind Candy](http://mindcandy.com/careers) | London, UK |
 | [MindTouch](https://mindtouch.com/about/careers) | San Diego, CA |
-| [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
 | [Mixmax](https://mixmax.com/careers) | San Francisco, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
