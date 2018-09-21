@@ -247,7 +247,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [Narrative Science](https://narrativescience.com/careers) | Chicago, IL |
-| [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
 | [Nest](http://nest.com/careers/life-at-nest/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](https://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
