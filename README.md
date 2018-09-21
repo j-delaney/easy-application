@@ -186,7 +186,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [InstaCart](https://careers.instacart.com/) | San Francisco, CA |
 | [Instructure](https://www.instructure.com/careers/) | Chicago, IL; Hong Kong; London, UK; Pleasant Grove, UT; Salt Lake City, UT; São Paulo, Brazil; Seattle, WA; Sydney, Australia |
 | [Integral Ad Science](https://integralads.com/about/careers/) | New York, NY; Seattle, WA |
-| [Intellisis](http://www.knuedge.com/) | San Diego, CA |
 | [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
 | [Interactive Intelligence](https://www.genesys.com/inin/careers) | Indianapolis, IN |
 | [Intercom](https://www.intercom.com/careers) | San Francisco, CA |
