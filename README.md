@@ -65,7 +65,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
 | [Carousell](https://boards.greenhouse.io/carousell) | Singapore |
-| [Casetext](https://casetext.com/jobs) | San Francisco, CA |
+| [Casetext](https://jobs.lever.co/casetext/) | San Francisco, CA |
 | [Casper](http://www.casper.com/jobs) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/careers/) | New York, NY |
 | [Centro](https://www.centro.net/careers) | Chicago, IL |
