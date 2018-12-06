@@ -201,6 +201,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
 | [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany |
 | [Kayak](https://www.kayak.com/careers) | Austin, TX; Berlin, Germany; Cambridge, MA; Concord, MA; Coral Gables, FL; Dallas, TX; Denver, CO; San Francisco, CA; Zurich, Switzerland |
+| [KeeperSecurity](https://keepersecurity.com/jobs.html) | Eldorado Hills, CA |
 | [KeepSafe](https://www.getkeepsafe.com/careers.html) | San Francisco, CA |
 | [Khan Academy](https://www.khanacademy.org/careers) | Mountain View, CA; Remote |
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
