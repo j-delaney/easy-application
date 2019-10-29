@@ -329,6 +329,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SimplyCredit](https://simplycreditinc.com/careers) | San Francisco, CA |
 | [SKHMS](http://www.skhms.com/careers/) | San Jose, CA |
 | [Skillshare](https://www.skillshare.com/careers) | New York, NY |
+| [Skillz](https://www.skillz.com/careers-list) | San Francisco, CA; Portland, OR |
 | [Slack](https://slack.com/jobs) | San Francisco, CA |
 | [Slice](https://careers.slice.com/) | San Mateo, CA |
 | [Smarking](https://www.smarking.net/careers) | San Francisco, CA |
