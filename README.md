@@ -302,6 +302,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
 | [ResearchGate](https://www.researchgate.net/careers#positions) | Berlin, Germany |
 | [Resultados Digitais](https://resultadosdigitais.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil |
+| [Rescale](https://www.rescale.com/careers/) | San Francisco, CA |
 | [RetailNext](https://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
 | [Riot Games](https://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/about/careers/) | San Francisco, CA |
