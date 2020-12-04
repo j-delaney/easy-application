@@ -125,7 +125,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [EdX](https://www.edx.org/careers) | Cambridge, MA |
 | [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
-| [Element.ai](http://www.elementai.com/en/careers?p=jobs) | Montreal, Canada |
+| [Element.ai](https://www.elementai.com/careers) | Montreal, Canada |
 | [Elemental Technologies](https://www.elementaltechnologies.com/company/careers) | Causeway Bay, Hong Kong; Portland, OR;  Singapore; Theale, Reading United Kingdom;  Tokyo, Japan |
 | [EnergySavvy](http://www.energysavvy.com/about/careers) | Seattle, WA |
 | [Entelo](https://www.entelo.com/careers/) | San Francisco, CA |
