@@ -35,6 +35,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Aptible](https://www.aptible.com/company/) | Denver, CO |
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
+| [Athenian](https://www.athenian.co/careers) | Remote |
 | [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
