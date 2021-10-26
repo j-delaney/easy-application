@@ -147,6 +147,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Flipp](https://corp.flipp.com/careers) | Toronto, ON, Canada |
 | [Forex Factory](https://www.forexfactory.com/careers) | Tampa, FL |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
+| [Fractal](https://tryfractal.notion.site/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | New York, NY; Remote |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
