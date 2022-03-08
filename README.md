@@ -85,7 +85,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
-| [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
+| [CodeSignal](https://codesignal.com/careers/) (Previously CodeFights) | San Francisco, CA |
 | [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
 | [Collective Health](https://collectivehealth.com/jobs/) | San Francisco, CA |
