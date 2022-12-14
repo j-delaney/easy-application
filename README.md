@@ -175,7 +175,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [IFTTT](https://ifttt.com/jobs) | San Francisco, CA |
-| [IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
 | [Illumio](https://www.illumio.com/career-teamillumio) | Sunnyvale, CA |
 | [Imgur](http://imgur.com/jobs) | San Francisco, CA |
 | [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
@@ -185,7 +184,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
 | [InstaCart](https://careers.instacart.com/) | San Francisco, CA |
 | [Instructure](https://www.instructure.com/careers/) | Chicago, IL; Hong Kong; London, UK; Pleasant Grove, UT; Salt Lake City, UT; São Paulo, Brazil; Seattle, WA; Sydney, Australia |
-| [Integral Ad Science](https://integralads.com/about/careers/) | New York, NY; Seattle, WA |
+| [Integral Ad Science](https://integralads.com/about-ias/careers/) | New York, NY; Seattle, WA |
 | [Intellisis](http://www.knuedge.com/) | San Diego, CA |
 | [Intentional](http://www.intentsoft.com/careers/) | Bellevue, WA |
 | [Interactive Intelligence](https://www.genesys.com/inin/careers) | Indianapolis, IN |
@@ -194,7 +193,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Invoice2go](https://invoice.2go.com/careers/) | Redwood City, CA |
 | [IXL Learning](https://www.ixl.com/company/jobs) | Raleigh-Durham, NC; San Mateo, CA |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
-| [Jet](https://jet.com/careers) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
 | [Jiminny](https://www.jiminny.com/careers.html) | Sofia, Bulgaria |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
@@ -272,7 +270,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
 | [Paytm Labs](//https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
-| [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
 | [Postmates](https://postmates.com/jobs) | San Francisco, CA |
 | [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  |
@@ -314,7 +311,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
-| [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
 | [SendGrid](https://sendgrid.com/careers/) | Denver, CO |
@@ -379,7 +375,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Travis CI](https://travisci.workable.com/) | Remote, US |
 | [TripAdvisor](https://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Trustpilot](https://jobs.trustpilot.com/) | Copenhagen, Denmark |
-| [Trustwave](https://careers.trustwave.com) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
+| [Trustwave](https://jobs.jobvite.com/trustwave) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
 | [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs/) | San Francisco, CA |
@@ -391,11 +387,10 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
 | [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK |
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
-| [Veeva](http://jobs.jobvite.com/veeva/jobs) | New York, NY; Pleasanton, CA; Remote; Toronto, ON |
+| [Veeva](https://careers.veeva.com/) | New York, NY; Pleasanton, CA; Remote; Toronto, ON |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
 | [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
 | [VEVO](https://www.vevo.com/careers) | San Francisco, CA; New York, NY |
-| [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
 | [Vox Media](https://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
