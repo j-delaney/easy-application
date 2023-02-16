@@ -387,6 +387,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Two Roads](http://tworoads.co.in/#careers) | Bangalore, India |
 | [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York, NY |
 | [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
+| [UnitX](https://unitx.recruitee.com/) | Santa Clara, CA |
 | [Unity](https://careers.unity.com) | Austin, TX; Bellevue, WA; San Francisco, CA |
 | [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
 | [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK |
