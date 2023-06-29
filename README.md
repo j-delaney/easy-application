@@ -110,7 +110,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
 | [DJI](https://we.dji.com/career.html) | Palo Alto, CA |
 | [Docker](https://www.docker.com/careers) | San Francisco, CA |
-| [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
+| [DocuSign](https://careers.docusign.com/) | San Francisco, CA; Seattle, WA |
 | [DollarShaveClub](https://jobs.jobvite.com/dollarshaveclub) | Los Angeles, CA |
 | [DoorDash](https://www.doordash.com/careers/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/content/jobs) | New York, NY |
