@@ -10,7 +10,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | Company Name | Location |
 | --- | --- |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
+| [6sense](https://6sense.com/about/careers/) | San Francisco, CA |
 | [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA |
 | [Academia](http://www.academia.edu/hiring) | San Francisco, CA |
 | [Achievers](https://www.achievers.com/careers/jobs) | San Francisco, CA  |
@@ -270,7 +270,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
-| [Paytm Labs](//https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
+| [Paytm Labs](https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
