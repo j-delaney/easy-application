@@ -117,7 +117,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DOT Digital Group](http://dotgroup.com.br/trabalhe-conosco/) | Belo Horizonte, MG, Brazil; Brasília, DF, Brazil; Florianópolis, SC, Brazil; Rio de Janeiro, RJ, Brazil; São Paulo, SP, Brazil |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
-| [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/careers) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
